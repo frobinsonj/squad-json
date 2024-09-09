@@ -1,0 +1,9 @@
+{
+	"name": "squad-json",
+	"version": "v8.0.2",
+	"main": "index.json",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/frobinsonj/squad-json.git"
+	}
+}

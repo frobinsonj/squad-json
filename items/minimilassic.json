@@ -1,0 +1,1 @@
+{"name": "Minimi", "category": "machinegun", "image": "items/minimi.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "200", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}

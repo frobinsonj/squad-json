@@ -1,0 +1,1 @@
+{"name": "PF98 Multipurpose High Explosive Incendiary", "category": "lat", "image": "items/he.png", "icon": "icons/item/lat.png", "info": {"warhead": "120mm HEI", "guidance": "Unguided", "explosion_radius": "20m", "penetration_capability": "400mm RHA"}}

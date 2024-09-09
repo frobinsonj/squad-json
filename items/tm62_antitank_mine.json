@@ -1,0 +1,1 @@
+{"name": "TM62 Anti-Tank Mine", "category": "explosives", "image": "items/mine.png", "icon": "icons/item/explosives.png", "info": {"operation": "Contact pressure-based fuze Detonation", "explosion_radius": "10m", "maximum_allowed_in_world": "10"}}

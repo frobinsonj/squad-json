@@ -1,0 +1,1 @@
+{"name": "RPD", "category": "machinegun", "image": "items/rpd.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x39mm Green Tracer", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}

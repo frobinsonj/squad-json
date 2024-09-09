@@ -1,0 +1,1 @@
+{"name": "C6A1 FLEX", "category": "machinegun", "image": "items/c6a1.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "700 RPM", "fire_mode": "Auto", "zeroing": "100m-1800m"}}

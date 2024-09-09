@@ -1,0 +1,1 @@
+{"name": "M249 PIP + M68", "category": "machinegun", "image": "items/aimpoint.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.56x45mm NATO Red Tracer", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}

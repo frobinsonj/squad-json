@@ -1,0 +1,1 @@
+{"name": "RPG-7 Tandem Heavy Anti-Tank", "category": "lat", "image": "items/rpg7tandem.png", "icon": "icons/item/lat.png", "info": {"warhead": "105mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

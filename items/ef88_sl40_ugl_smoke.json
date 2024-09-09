@@ -1,0 +1,1 @@
+{"name": "SL40 Smoke Marker White", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

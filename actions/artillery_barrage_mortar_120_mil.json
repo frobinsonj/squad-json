@@ -1,0 +1,1 @@
+{"name": "120mm Heavy Mortar Barrage", "details": "A 120mm heavy mortar barrage that deals significant chaos and suppression to anyone caught in its area of effect.", "type": "TACTICAL", "icon": "icons/tactical/mortarbarrage.png", "duration": {"enroute": 30, "active": 60}, "delay": {"initial": 1200, "respawn": 1200}}

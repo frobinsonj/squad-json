@@ -1,0 +1,1 @@
+{"name": "TNT Explosive (30s Fuze)", "category": "explosives", "image": "items/explosive.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "6m"}}

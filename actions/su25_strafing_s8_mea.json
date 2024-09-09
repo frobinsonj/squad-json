@@ -1,0 +1,1 @@
+{"name": "SU-25 Grach Rocket Airstrike", "details": "A S-8 rocket strike from a SU-25 Grach close air support aircraft.", "type": "TACTICAL", "icon": "icons/tactical/su25gunrun.png", "duration": {"enroute": 15, "active": 32}, "delay": {"initial": 900, "respawn": 900}}

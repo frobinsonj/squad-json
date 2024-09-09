@@ -1,0 +1,1 @@
+{"name": "MQ-9 UAV Recon", "details": "A flyby from a MQ-9 UAV, allowing for live aerial reconnaissance.", "type": "STRATEGIC", "icon": "icons/strategic/uav.png", "duration": {"enroute": 30, "active": 300}, "delay": {"initial": 600, "respawn": 600}}

@@ -1,0 +1,1 @@
+{"name": "A-10 Warthog Airstrike", "details": "A 30mm anti-armor cannon strafing run from an allied A-10 Warthog ground attack aircraft.", "type": "TACTICAL", "icon": "icons/tactical/a10gunrun.png", "duration": {"enroute": 15, "active": 32}, "delay": {"initial": 900, "respawn": 900}}

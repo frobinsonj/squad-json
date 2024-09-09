@@ -1,0 +1,1 @@
+{"name": "Handheld Drone", "details": "A simple handheld drone that can be remotely piloted and is used for scouting purposes.", "type": "STRATEGIC", "icon": "icons/strategic/handhelddrone.png", "duration": {"enroute": null, "active": null}, "delay": {"initial": 600, "respawn": 600}}

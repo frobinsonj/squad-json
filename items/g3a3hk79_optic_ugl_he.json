@@ -1,0 +1,1 @@
+{"name": "HK79 High Explosive", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m", "zeroing": "50m-350m"}}

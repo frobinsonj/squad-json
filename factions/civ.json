@@ -1,0 +1,1 @@
+{"name": "Civilians", "short_name": "CIV", "flag": null, "badge": "badges/civ.png", "buddy_rally": false, "alliance": "INDEPENDENT", "theaters": [], "units": ["civ_motorized_1", "civ_unarmed_1"], "roles": {"unarmed": {"name": "Unarmed Civilian", "details": "Equipped with Shovel and Field dressing", "options": ["civ_unarmed"]}}}

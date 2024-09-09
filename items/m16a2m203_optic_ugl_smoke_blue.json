@@ -1,0 +1,1 @@
+{"name": "M203 Smoke Blue", "category": "grenadelauncher", "image": "items/bluesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

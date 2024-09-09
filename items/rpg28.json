@@ -1,0 +1,1 @@
+{"name": "RPG-28 Tandem Heavy Anti-Tank", "category": "lat", "image": "items/rpg28.png", "icon": "icons/item/lat.png", "info": {"warhead": "125mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

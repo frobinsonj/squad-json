@@ -1,0 +1,1 @@
+{"name": "152mm Artillery Static Barrage", "details": "A 152mm heavy artillery strike that deals significant damage to anything that stands in its path.", "type": "TACTICAL", "icon": "icons/tactical/artillery.png", "duration": {"enroute": 60, "active": 60}, "delay": {"initial": 1800, "respawn": 1800}}

@@ -1,0 +1,1 @@
+{"name": "MG3", "category": "machinegun", "image": "items/mg3.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "120", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "1100 RPM", "fire_mode": "Auto"}}
