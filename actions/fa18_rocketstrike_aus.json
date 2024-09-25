@@ -1,1 +1,0 @@
-{"name": "F/A-18 Hornet Rocket Airstrike", "details": "A Hydra 70 rocket strike from an F/A-18 Hornet close air support aircraft.", "type": "TACTICAL", "icon": "icons/tactical/f18gunrun.png", "duration": {"enroute": 15, "active": 32}, "delay": {"initial": 900, "respawn": 900}}

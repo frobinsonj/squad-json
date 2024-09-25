@@ -1,0 +1,1 @@
+{"name": "M14", "category": "rifle", "image": "items/m14.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

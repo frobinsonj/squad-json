@@ -1,0 +1,1 @@
+{"name": "M112 C4 Explosive (Remote Detonated)", "category": "explosives", "image": "items/remote.png", "icon": "icons/item/explosives.png", "info": {"operation": "Command Detonation", "explosion_radius": "8m"}}
