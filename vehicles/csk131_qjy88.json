@@ -1,1 +1,1 @@
-{"name": "CSK131 QJY88", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}
+{"name": "CSK131 QJY88", "versions": {"FOREST": "/Game/Vehicles/CSK131/BP_CSK131_QJY88.BP_CSK131_QJY88_C", "DESERT": "/Game/Vehicles/CSK131/BP_CSK131_QJY88_Desert.BP_CSK131_QJY88_Desert_C"}, "class_names": ["BP_CSK131_QJY88_C", "BP_CSK131_QJY88_Desert_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}

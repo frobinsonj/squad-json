@@ -1,0 +1,1 @@
+{"name": "Mosin Nagant M38 Carbine", "class_name": "BP_Mosin_M38Carbine_C", "category": "rifle", "image": "items/carbine.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "5+1", "caliber": "7.62\u00d754mmR", "fire_mode": "Bolt-Action"}}

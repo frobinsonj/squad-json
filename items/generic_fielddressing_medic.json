@@ -1,1 +1,1 @@
-{"name": "Field Dressing", "category": "fielddressing", "image": "items/fielddressing.png", "icon": "icons/item/fielddressing.png", "info": null}
+{"name": "Field Dressing", "class_name": "BP_Generic_FieldDressing_Medic_C", "category": "fielddressing", "image": "items/fielddressing.png", "icon": "icons/item/fielddressing.png", "info": null}

@@ -1,1 +1,1 @@
-{"name": "M27 IAR + Irons + Tracer", "category": "rifle", "image": "items/ironsight.png", "icon": "icons/item/rifle.png", "info": null}
+{"name": "M27 IAR", "class_name": "BP_M27_IAR_C", "category": "rifle", "image": "items/ironsight.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}

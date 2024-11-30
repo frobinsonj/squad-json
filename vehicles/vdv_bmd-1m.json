@@ -1,1 +1,1 @@
-{"name": "BMD-1M", "tickets": 10, "type": "IFV", "tags": ["ATGM", "WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}
+{"name": "BMD-1M", "versions": {"FOREST": "/Game/Vehicles/BMD-1M/BP_BMD1M.BP_BMD1M_C", "DESERT": "/Game/Vehicles/BMD-1M/BP_BMD1M_Desert.BP_BMD1M_Desert_C"}, "class_names": ["BP_BMD1M_C", "BP_BMD1M_Desert_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}

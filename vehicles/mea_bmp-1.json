@@ -1,1 +1,1 @@
-{"name": "BMP-1", "tickets": 10, "type": "IFV", "tags": ["ATGM", "WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}
+{"name": "BMP-1", "versions": {"DESERT": "/Game/Vehicles/BMP-1/BP_BMP1_MEA.BP_BMP1_MEA_C"}, "class_names": ["BP_BMP1_MEA_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}

@@ -1,1 +1,1 @@
-{"name": "FV510", "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}
+{"name": "FV510", "versions": {"DESERT": "/Game/Vehicles/FV510/BP_FV510.BP_FV510_C", "FOREST": "/Game/Vehicles/FV510/BP_FV510_Woodland.BP_FV510_Woodland_C", "SNOW": "/Game/Vehicles/FV510/BP_FV510_Woodland.BP_FV510_Woodland_C"}, "class_names": ["BP_FV510_C", "BP_FV510_Woodland_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedifv.png"}

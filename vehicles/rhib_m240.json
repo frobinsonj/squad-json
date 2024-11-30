@@ -1,1 +1,1 @@
-{"name": "RHIB M240", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB M240", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_US_M240.BP_RHIB_US_M240_C"}, "class_names": ["BP_RHIB_US_M240_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

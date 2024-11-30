@@ -1,1 +1,1 @@
-{"name": "PMV Mag58", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}
+{"name": "PMV Mag58", "versions": {"DESERT": "/Game/Vehicles/PMV/BP_PMV_Mag58x3.BP_PMV_Mag58x3_C", "FOREST": "/Game/Vehicles/PMV/BP_PMV_Mag58x3.BP_PMV_Mag58x3_C", "SNOW": "/Game/Vehicles/PMV/BP_PMV_Mag58x3.BP_PMV_Mag58x3_C"}, "class_names": ["BP_PMV_Mag58_C", "BP_PMV_Mag58x3_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}

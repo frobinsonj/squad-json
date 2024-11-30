@@ -1,1 +1,1 @@
-{"name": "RHIB QJY88", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB QJY88", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_QJY88.BP_RHIB_QJY88_C"}, "class_names": ["BP_RHIB_QJY88_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

@@ -1,1 +1,1 @@
-{"name": "G3 Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "G3 Bayonet", "class_name": "BP_G3Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

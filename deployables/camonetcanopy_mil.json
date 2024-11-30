@@ -1,1 +1,1 @@
-{"name": "Camo Net Canopy", "type": "camo_net_canopy", "icon": "icons/radial/camonetcanopy.png"}
+{"name": "Camo Net Canopy", "versions": {"FOREST": "/Game/Gameplay/Deployables/CamoNettings/BP_CamoNetCanopy_IMF.BP_CamoNetCanopy_IMF_C"}, "class_names": ["BP_CamoNetCanopy_IMF_C"], "type": "camo_net_canopy", "icon": "icons/radial/camonetcanopy.png"}

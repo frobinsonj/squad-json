@@ -1,1 +1,1 @@
-{"name": "BTR-MDM", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "BTR-MDM", "versions": {"DESERT": "/Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS_Desert.BP_BTRMDM_PKT_RWS_Desert_C", "FOREST": "/Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS.BP_BTRMDM_PKT_RWS_C", "SNOW": "/Game/Vehicles/BTR-MDM/BP_BTRMDM_PKT_RWS.BP_BTRMDM_PKT_RWS_C"}, "class_names": ["BP_BTRMDM_PKT_RWS_Desert_C", "BP_BTRMDM_PKT_RWS_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

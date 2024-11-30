@@ -1,1 +1,1 @@
-{"name": "Type95 Field Binoculars", "category": "binoculars", "image": "items/sovietbinocs.png", "icon": "icons/item/binoculars.png", "info": null}
+{"name": "Type95 Field Binoculars", "class_name": "BP_PLA_Binoculars_C", "category": "binoculars", "image": "items/sovietbinocs.png", "icon": "icons/item/binoculars.png", "info": null}

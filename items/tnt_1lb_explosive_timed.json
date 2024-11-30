@@ -1,1 +1,1 @@
-{"name": "TNT 1lb Explosive (30s Fuze)", "category": "explosives", "image": "items/explosive.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "6m"}}
+{"name": "TNT 1lb Explosive (30s Fuze)", "class_name": "BP_TNT_1lb_Explosive_Timed_C", "category": "explosives", "image": "items/explosive.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "6m"}}

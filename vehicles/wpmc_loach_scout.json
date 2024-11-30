@@ -1,1 +1,1 @@
-{"name": "Loach Scout", "tickets": 5, "type": "AH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/transporthelo.png"}
+{"name": "Loach Scout", "versions": {"DESERT": "/Game/Vehicles/Loach_WPMC/BP_Loach.BP_Loach_C", "FOREST": "/Game/Vehicles/Loach_WPMC/BP_Loach.BP_Loach_C", "SNOW": "/Game/Vehicles/Loach_WPMC/BP_Loach.BP_Loach_C"}, "class_names": ["BP_Loach_C"], "tickets": 5, "type": "AH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/helicopter_scout.png"}

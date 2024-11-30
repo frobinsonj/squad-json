@@ -1,1 +1,1 @@
-{"name": "RHIB PKM", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB PKM", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_PKM.BP_RHIB_PKM_C"}, "class_names": ["BP_RHIB_PKM_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

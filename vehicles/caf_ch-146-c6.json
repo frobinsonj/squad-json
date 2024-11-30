@@ -1,1 +1,1 @@
-{"name": "CH-146", "tickets": 5, "type": "UH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/transporthelo.png"}
+{"name": "CH-146", "versions": {"FOREST": "/Game/Vehicles/CH146/BP_CH146.BP_CH146_C", "DESERT": "/Game/Vehicles/CH146/BP_CH146_Desert.BP_CH146_Desert_C", "SNOW": "/Game/Vehicles/CH146/BP_CH146.BP_CH146_C"}, "class_names": ["BP_CH146_C", "BP_CH146_Desert_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/transporthelo.png"}

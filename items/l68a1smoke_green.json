@@ -1,1 +1,1 @@
-{"name": "L68A1 Smoke Grenade Green", "category": "smokegrenade", "image": "items/green.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "L68A1 Smoke Grenade Green", "class_name": "BP_L68A1Smoke_Green_C", "category": "smokegrenade", "image": "items/green.png", "icon": "icons/item/smokegrenade.png", "info": null}

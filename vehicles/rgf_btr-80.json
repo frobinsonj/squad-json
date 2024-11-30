@@ -1,1 +1,1 @@
-{"name": "BTR-80", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc.png"}
+{"name": "BTR-80", "versions": {"DESERT": "/Game/Vehicles/BTR80/BP_BTR80_RUS_Desert.BP_BTR80_RUS_Desert_C", "FOREST": "/Game/Vehicles/BTR80/BP_BTR80_RUS.BP_BTR80_RUS_C", "SNOW": "/Game/Vehicles/BTR80/BP_BTR80_RUS.BP_BTR80_RUS_C"}, "class_names": ["BP_BTR80_RUS_Desert_C", "BP_BTR80_RUS_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc.png"}

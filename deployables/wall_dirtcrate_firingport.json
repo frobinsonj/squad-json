@@ -1,1 +1,1 @@
-{"name": "Dirt Crates with Firing Ports", "type": "wall_murder_hole", "icon": "icons/radial/dirtcratesfiringports.png"}
+{"name": "Dirt Crates with Firing Ports", "versions": {"FOREST": "/Game/Gameplay/Deployables/Sandbags/BP_DirtCrate_FiringPortWall.BP_DirtCrate_FiringPortWall_C"}, "class_names": ["BP_DirtCrate_FiringPortWall_C"], "type": "wall_murder_hole", "icon": "icons/radial/dirtcratesfiringports.png"}

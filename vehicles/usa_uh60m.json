@@ -1,1 +1,1 @@
-{"name": "UH-60M", "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}
+{"name": "UH-60M", "versions": {"FOREST": "/Game/Vehicles/UH60M/BP_UH60.BP_UH60_C"}, "class_names": ["BP_UH60_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}

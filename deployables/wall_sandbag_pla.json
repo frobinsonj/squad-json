@@ -1,1 +1,1 @@
-{"name": "Sandbag Line", "type": "wall", "icon": "icons/radial/sandbagsstraight.png"}
+{"name": "Sandbag Line", "versions": {"FOREST": "/Game/Gameplay/Deployables/Sandbags/BP_I_Sandbag_PLA.BP_I_Sandbag_PLA_C"}, "class_names": ["BP_I_Sandbag_PLA_C"], "type": "wall", "icon": "icons/radial/sandbagsstraight.png"}

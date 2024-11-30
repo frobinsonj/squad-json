@@ -1,1 +1,1 @@
-{"name": "AK-12 + 1P87 + Foregrip", "category": "rifle", "image": "items/reddot.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "AK-12 + 1P87 + Foregrip", "class_name": "BP_AK12_Foregrip_Reddot_C", "category": "rifle", "image": "items/reddot.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

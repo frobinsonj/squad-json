@@ -1,1 +1,1 @@
-{"name": "SOCP Knife", "category": "knife", "image": "items/knife.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "SOCP Knife", "class_name": "BP_SOCP_Knife_ADF_C", "category": "knife", "image": "items/knife.png", "icon": "icons/item/knife.png", "info": null}

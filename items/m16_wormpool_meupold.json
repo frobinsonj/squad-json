@@ -1,1 +1,1 @@
-{"name": "M16 Wormpool + Meupold", "category": "rifle", "image": "items/bipod.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, 3-Round Burst"}}
+{"name": "M16 Wormpool + Meupold", "class_name": "BP_M16_Wormpool_Meupold_C", "category": "rifle", "image": "items/bipod.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}

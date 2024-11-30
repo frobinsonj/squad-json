@@ -1,1 +1,1 @@
-{"name": "M240B", "category": "machinegun", "image": "items/m240b.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}
+{"name": "M240B", "class_name": "BP_M240_C", "category": "machinegun", "image": "items/m240b.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}

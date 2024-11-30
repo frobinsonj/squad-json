@@ -1,1 +1,1 @@
-{"name": "AKS-74U + Banana Mag", "category": "rifle", "image": "items/45rnd.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "45+1", "caliber": "5.45x39mm", "rate_of_fire": "700 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "AKS-74U + Banana Mag", "class_name": "BP_AKS74U_45Rnd_C", "category": "rifle", "image": "items/45rnd.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "45+1", "caliber": "5.45x39mm", "rate_of_fire": "700 RPM", "fire_mode": "Semi, Auto"}}

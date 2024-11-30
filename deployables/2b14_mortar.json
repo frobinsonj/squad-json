@@ -1,1 +1,1 @@
-{"name": "2B14 Podnos Mortar", "type": "mortar", "icon": "icons/radial/mortars.png"}
+{"name": "2B14 Podnos Mortar", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_2b14podnosmortar_Deployable.BP_2b14podnosmortar_Deployable_C"}, "class_names": ["BP_2b14podnosmortar_Deployable_C"], "type": "mortar", "icon": "icons/radial/mortars.png"}

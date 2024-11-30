@@ -1,1 +1,1 @@
-{"name": "BTR-ZD", "tickets": 5, "type": "SPAA", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/antiair.png"}
+{"name": "BTR-ZD", "versions": {"FOREST": "/Game/Vehicles/BTR-D/BP_BTR-ZD.BP_BTR-ZD_C", "DESERT": "/Game/Vehicles/BTR-D/BP_BTR-ZD_Desert.BP_BTR-ZD_Desert_C"}, "class_names": ["BP_BTR-ZD_C", "BP_BTR-ZD_Desert_C"], "tickets": 5, "type": "SPAA", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/antiair.png"}

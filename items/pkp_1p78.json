@@ -1,1 +1,1 @@
-{"name": "PKP Pecheneg - 1p78", "category": "machinegun", "image": "items/1p78.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR Green Tracer", "rate_of_fire": "650 RPM", "fire_mode": "Auto."}}
+{"name": "PKP Pecheneg - 1p78", "class_name": "BP_PKP_1P78_C", "category": "machinegun", "image": "items/1p78.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR Green Tracer", "rate_of_fire": "650 RPM", "fire_mode": "Auto."}}

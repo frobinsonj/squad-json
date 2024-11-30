@@ -1,1 +1,1 @@
-{"name": "TAPV", "tickets": 5, "type": "MRAP", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/jeep_turret.png"}
+{"name": "TAPV", "versions": {"DESERT": "/Game/Vehicles/TAPV/BP_TAPV_C16_Desert.BP_TAPV_C16_Desert_C", "FOREST": "/Game/Vehicles/TAPV/BP_TAPV_C16.BP_TAPV_C16_C", "SNOW": "/Game/Vehicles/TAPV/BP_TAPV_C16.BP_TAPV_C16_C"}, "class_names": ["BP_TAPV_C16_Desert_C", "BP_TAPV_C16_C"], "tickets": 5, "type": "MRAP", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/jeep_turret.png"}

@@ -1,1 +1,1 @@
-{"name": "M-ATV M2", "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}
+{"name": "M-ATV M2", "versions": {"DESERT": "/Game/Vehicles/MATV/BP_MATV.BP_MATV_C", "FOREST": "/Game/Vehicles/MATV/BP_MATV_Woodland.BP_MATV_Woodland_C", "SNOW": "/Game/Vehicles/MATV/BP_MATV_Woodland.BP_MATV_Woodland_C"}, "class_names": ["BP_MATV_C", "BP_MATV_Woodland_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}

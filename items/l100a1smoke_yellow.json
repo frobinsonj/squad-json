@@ -1,1 +1,1 @@
-{"name": "L100A1 Smoke Grenade Yellow", "category": "smokegrenade", "image": "items/yellow.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "L100A1 Smoke Grenade Yellow", "class_name": "BP_L100A1Smoke_Yellow_C", "category": "smokegrenade", "image": "items/yellow.png", "icon": "icons/item/smokegrenade.png", "info": null}

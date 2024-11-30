@@ -1,1 +1,1 @@
-{"name": "Hi-Power Pistol", "category": "pistol", "image": "items/caf.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "12+1", "caliber": "9mm", "fire_mode": "Semi Automatic"}}
+{"name": "Hi-Power Pistol", "class_name": "BP_BrowningHP_5Mags_C", "category": "pistol", "image": "items/caf.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "12+1", "caliber": "9mm", "fire_mode": "Semi Automatic"}}

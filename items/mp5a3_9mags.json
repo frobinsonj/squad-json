@@ -1,1 +1,1 @@
-{"name": "MP5A3", "category": "rifle", "image": "items/mp5a3.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "9x19mm Parabellum", "rate_of_fire": "800 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "MP5A3", "class_name": "BP_MP5A3_9mags_C", "category": "rifle", "image": "items/mp5a3.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "9x19mm Parabellum", "rate_of_fire": "800 RPM", "fire_mode": "Semi, Auto"}}

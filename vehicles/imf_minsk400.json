@@ -1,1 +1,1 @@
-{"name": "Minsk 400", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/motorcycle.png"}
+{"name": "Minsk 400", "versions": {"DESERT": "/Game/Vehicles/Minsk_motorbike/BP_minsk.BP_minsk_C"}, "class_names": ["BP_Minsk_black_C", "BP_Minsk_green_C", "BP_Minsk_blue_C", "BP_minsk_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/motorcycle.png"}

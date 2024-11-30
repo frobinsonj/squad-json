@@ -1,1 +1,1 @@
-{"name": "BMC-185 Logistics", "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_logistics.png"}
+{"name": "BMC-185 Logistics", "versions": {"FOREST": "/Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck_Logi.BP_TLF_Util_Truck_Logi_C", "DESERT": "/Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck_Logi_Desert.BP_TLF_Util_Truck_Logi_Desert_C"}, "class_names": ["BP_TLF_Util_Truck_Logi_C", "BP_TLF_Util_Truck_Logi_Desert_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_logistics.png"}

@@ -1,1 +1,1 @@
-{"name": "CSK131 QJC88 RWS", "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}
+{"name": "CSK131 QJC88 RWS", "versions": {"FOREST": "/Game/Vehicles/CSK131/BP_CSK131_RWS.BP_CSK131_RWS_C", "DESERT": "/Game/Vehicles/CSK131/BP_CSK131_RWS_Desert.BP_CSK131_RWS_Desert_C"}, "class_names": ["BP_CSK131_RWS_C", "BP_CSK131_RWS_Desert_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}

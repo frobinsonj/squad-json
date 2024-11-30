@@ -1,1 +1,1 @@
-{"name": "M1A1", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "M1A1", "versions": {"DESERT": "/Game/Vehicles/M1A1_USMC/BP_M1A1_USMC.BP_M1A1_USMC_C", "FOREST": "/Game/Vehicles/M1A1_USMC/BP_M1A1_USMC_Woodland.BP_M1A1_USMC_Woodland_C", "SNOW": "/Game/Vehicles/M1A1_USMC/BP_M1A1_USMC_Woodland.BP_M1A1_USMC_Woodland_C"}, "class_names": ["BP_M1A1_USMC_C", "BP_M1A1_USMC_Woodland_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

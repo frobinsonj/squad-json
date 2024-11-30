@@ -1,1 +1,1 @@
-{"name": "M21 + Meupold", "category": "dmr", "image": "items/scope.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "M21 + Meupold", "class_name": "BP_M14_Optics_C", "category": "dmr", "image": "items/scope.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

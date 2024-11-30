@@ -1,1 +1,1 @@
-{"name": "Simir Logi", "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_logistics.png"}
+{"name": "Simir Logi", "versions": {"DESERT": "/Game/Vehicles/Safir/BP_Safir.BP_Safir_C"}, "class_names": ["BP_Safir_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_logistics.png"}

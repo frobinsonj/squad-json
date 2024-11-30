@@ -1,1 +1,1 @@
-{"name": "NSV HMG Bunker", "type": "hmg_protected", "icon": "icons/radial/mgbunker.png"}
+{"name": "NSV HMG Bunker", "versions": {"DESERT": "/Game/Gameplay/Deployables/Bunkers/MEA/BP_Kord_MEA_Bunker.BP_Kord_MEA_Bunker_C"}, "class_names": ["BP_Kord_MEA_Bunker_C"], "type": "hmg_protected", "icon": "icons/radial/mgbunker.png"}

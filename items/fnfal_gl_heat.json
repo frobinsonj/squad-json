@@ -1,1 +1,1 @@
-{"name": "FN FAL HEAT Rifle Grenade", "category": "grenadelauncher", "image": "items/heat.png", "icon": "icons/item/grenadelauncher.png", "info": null}
+{"name": "FN FAL HEAT Rifle Grenade", "class_name": "BP_FNFAL_GL_HEAT_C", "category": "grenadelauncher", "image": "items/heat.png", "icon": "icons/item/grenadelauncher.png", "info": null}

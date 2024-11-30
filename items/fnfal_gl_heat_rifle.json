@@ -1,1 +1,1 @@
-{"name": "FN FAL", "category": "rifle", "image": "items/fnfal.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "FN FAL", "class_name": "BP_FNFAL_GL_HEAT_Rifle_C", "category": "rifle", "image": "items/fnfal.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

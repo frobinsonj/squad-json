@@ -1,1 +1,1 @@
-{"name": "FV432 RWS", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "LOW_CALIBER", "RWS"], "icon": "icons/map/trackedapc.png"}
+{"name": "FV432 RWS", "versions": {"DESERT": "/Game/Vehicles/FV432/BP_FV432_RWS.BP_FV432_RWS_C", "FOREST": "/Game/Vehicles/FV432/BP_FV432_RWS_Woodland.BP_FV432_RWS_Woodland_C", "SNOW": "/Game/Vehicles/FV432/BP_FV432_RWS_Woodland.BP_FV432_RWS_Woodland_C"}, "class_names": ["BP_FV432_RWS_C", "BP_FV432_RWS_Woodland_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "LOW_CALIBER", "RWS"], "icon": "icons/map/trackedapc.png"}

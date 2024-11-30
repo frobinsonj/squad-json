@@ -1,1 +1,1 @@
-{"name": "M113A3 M2", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedjeep.png"}
+{"name": "M113A3 M2", "versions": {"DESERT": "/Game/Vehicles/M113A3/BP_M113A3_M2_Desert_Cage.BP_M113A3_M2_Desert_Cage_C", "FOREST": "/Game/Vehicles/M113A3/BP_M113A3_M2.BP_M113A3_M2_C", "SNOW": "/Game/Vehicles/M113A3/BP_M113A3_M2.BP_M113A3_M2_C"}, "class_names": ["BP_M113A3_M2_Desert_C", "BP_M113A3_M2_Desert_Cage_C", "BP_M113A3_M2_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedjeep.png"}

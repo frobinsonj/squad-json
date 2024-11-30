@@ -1,0 +1,1 @@
+{"name": "Vz. 61 \u0160korpion", "class_name": "BP_Vz61_C", "category": "pistol", "image": "items/vz61.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "20", "caliber": ".32 ACP", "rate_of_fire": "850 RPM", "fire_mode": "Auto, Semi"}}

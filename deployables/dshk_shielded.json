@@ -1,1 +1,1 @@
-{"name": "DShK HMG (Shielded)", "type": "hmg_protected", "icon": "icons/radial/heavymachinegunshield.png"}
+{"name": "DShK HMG (Shielded)", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_DShK_Shielded.BP_DShK_Shielded_C"}, "class_names": ["BP_DShK_Shielded_C"], "type": "hmg_protected", "icon": "icons/radial/heavymachinegunshield.png"}

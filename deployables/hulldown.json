@@ -1,1 +1,1 @@
-{"name": "Hull Down", "type": "hull_down", "icon": "icons/radial/hulldownposition.png"}
+{"name": "Hull Down", "versions": {"FOREST": "/Game/Gameplay/Deployables/HullDown/BP_HullDown_Forest.BP_HullDown_Forest_C", "DESERT": "/Game/Gameplay/Deployables/HullDown/BP_HullDown_Desert.BP_HullDown_Desert_C", "SNOW": "/Game/Gameplay/Deployables/HullDown/BP_HullDown_Forest.BP_HullDown_Forest_C"}, "class_names": ["BP_HullDown_Forest_C", "BP_HullDown_Desert_C"], "type": "hull_down", "icon": "icons/radial/hulldownposition.png"}

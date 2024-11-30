@@ -1,1 +1,1 @@
-{"name": "BMP-2", "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "BMP-2", "versions": {"DESERT": "/Game/Vehicles/BMP-2/BP_BMP2_IMF.BP_BMP2_IMF_C", "FOREST": "/Game/Vehicles/BMP-2/BP_BMP2_IMF.BP_BMP2_IMF_C", "SNOW": "/Game/Vehicles/BMP-2/BP_BMP2_IMF.BP_BMP2_IMF_C"}, "class_names": ["BP_BMP2_IMF_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

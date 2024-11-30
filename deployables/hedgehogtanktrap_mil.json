@@ -1,1 +1,1 @@
-{"name": "HedgeHog Tank Trap", "type": "hedgehog", "icon": "icons/radial/hedgehog.png"}
+{"name": "HedgeHog Tank Trap", "versions": {"FOREST": "/Game/Gameplay/Deployables/HedgehogTank_Trap/BP_HedgehogTankTrap.BP_HedgehogTankTrap_C"}, "class_names": ["BP_HedgehogTankTrap_C"], "type": "hedgehog", "icon": "icons/radial/hedgehog.png"}

@@ -1,1 +1,1 @@
-{"name": "SVD", "category": "dmr", "image": "items/svd.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x54mmR", "fire_mode": "Semi"}}
+{"name": "SVD", "class_name": "BP_SVD_Optic_C", "category": "dmr", "image": "items/svd.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x54mmR", "fire_mode": "Semi"}}

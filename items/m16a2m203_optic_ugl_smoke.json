@@ -1,1 +1,1 @@
-{"name": "M203 Smoke", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}
+{"name": "M203 Smoke", "class_name": "BP_M16A2M203_Optic_UGL_Smoke_C", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

@@ -1,1 +1,1 @@
-{"name": "Ladder", "type": "ladder", "icon": "icons/radial/ladder.png"}
+{"name": "Ladder", "versions": {"DESERT": "/Game/Gameplay/Deployables/Ladders/BP_TestLadder_Wood.BP_TestLadder_Wood_C"}, "class_names": ["BP_TestLadder_Wood_C"], "type": "ladder", "icon": "icons/radial/ladder.png"}

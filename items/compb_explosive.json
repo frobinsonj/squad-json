@@ -1,1 +1,1 @@
-{"name": "CompB Explosive", "category": "explosives", "image": "items/compb.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}
+{"name": "CompB Explosive", "class_name": "BP_CompB_Explosive_C", "category": "explosives", "image": "items/compb.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}

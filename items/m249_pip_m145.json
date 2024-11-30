@@ -1,1 +1,1 @@
-{"name": "M249 PIP + M145", "category": "machinegun", "image": "items/elcan.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.56x45mm NATO Red Tracer", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}
+{"name": "M249 PIP + M145", "class_name": "BP_M249_Pip_M145_C", "category": "machinegun", "image": "items/elcan.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.56x45mm NATO Red Tracer", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}

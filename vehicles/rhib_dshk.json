@@ -1,1 +1,1 @@
-{"name": "RHIB DShK", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB DShK", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_DSHK.BP_RHIB_DSHK_C"}, "class_names": ["BP_RHIB_DSHK_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

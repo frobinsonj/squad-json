@@ -1,1 +1,1 @@
-{"name": "Quad Bike", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/motorcycle.png"}
+{"name": "Quad Bike", "versions": {"DESERT": "/Game/Vehicles/QuadBike/BP_Quadbike_Desert.BP_Quadbike_Desert_C", "FOREST": "/Game/Vehicles/QuadBike/BP_Quadbike_Woodland.BP_Quadbike_Woodland_C", "SNOW": "/Game/Vehicles/QuadBike/BP_Quadbike_Woodland.BP_Quadbike_Woodland_C"}, "class_names": ["BP_Quadbike_Desert_C", "BP_Quadbike_Woodland_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/motorcycle.png"}

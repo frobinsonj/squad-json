@@ -1,1 +1,1 @@
-{"name": "FV432", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/trackedjeep.png"}
+{"name": "FV432", "versions": {"DESERT": "/Game/Vehicles/FV432/BP_FV432_RWS_M2.BP_FV432_RWS_M2_C", "FOREST": "/Game/Vehicles/FV432/BP_FV432_RWS_M2_Woodland.BP_FV432_RWS_M2_Woodland_C", "SNOW": "/Game/Vehicles/FV432/BP_FV432_RWS_M2_Woodland.BP_FV432_RWS_M2_Woodland_C"}, "class_names": ["BP_FV432_RWS_M2_C", "BP_FV432_RWS_M2_Woodland_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/trackedjeep.png"}

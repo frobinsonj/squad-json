@@ -1,1 +1,1 @@
-{"name": "BMC-185 Transport", "tickets": 5, "type": "TRAN", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_transport.png"}
+{"name": "BMC-185 Transport", "versions": {"FOREST": "/Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck.BP_TLF_Util_Truck_C", "DESERT": "/Game/Vehicles/BMC_185_Truck/BP_TLF_Util_Truck_Desert.BP_TLF_Util_Truck_Desert_C"}, "class_names": ["BP_TLF_Util_Truck_C", "BP_TLF_Util_Truck_Desert_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_transport.png"}

@@ -1,1 +1,1 @@
-{"name": "Technical Kornet", "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "Technical Kornet", "versions": {"DESERT": "/Game/Vehicles/Technical2Seater/BP_Technical2Seater_Camo_Kornet.BP_Technical2Seater_Camo_Kornet_C"}, "class_names": ["BP_Technical2Seater_Camo_Kornet_C"], "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}

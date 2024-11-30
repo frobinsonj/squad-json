@@ -1,1 +1,1 @@
-{"name": "M1117", "tickets": 5, "type": "MRAP", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/jeep_turret.png"}
+{"name": "M1117", "versions": {"DESERT": "/Game/Vehicles/M1117/BP_M1117.BP_M1117_C", "FOREST": "/Game/Vehicles/M1117/BP_M1117.BP_M1117_C", "SNOW": "/Game/Vehicles/M1117/BP_M1117.BP_M1117_C"}, "class_names": ["BP_M1117_C"], "tickets": 5, "type": "MRAP", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/jeep_turret.png"}

@@ -1,1 +1,1 @@
-{"name": "AKS-74U", "category": "rifle", "image": "items/aks74u.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "700 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "AKS-74U", "class_name": "BP_AKS74U_C", "category": "rifle", "image": "items/aks74u.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "700 RPM", "fire_mode": "Semi, Auto"}}

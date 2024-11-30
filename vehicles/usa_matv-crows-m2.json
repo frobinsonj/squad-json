@@ -1,1 +1,1 @@
-{"name": "M-ATV CROWS M2", "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}
+{"name": "M-ATV CROWS M2", "versions": {"DESERT": "/Game/Vehicles/MATV/BP_MATV_CROWS.BP_MATV_CROWS_C", "FOREST": "/Game/Vehicles/MATV/BP_MATV_CROWS_Woodland.BP_MATV_CROWS_Woodland_C", "SNOW": "/Game/Vehicles/MATV/BP_MATV_CROWS_Woodland.BP_MATV_CROWS_Woodland_C"}, "class_names": ["BP_MATV_CROWS_C", "BP_MATV_CROWS_Woodland_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}

@@ -1,1 +1,1 @@
-{"name": "Logistics Modern Pickup", "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_logistics.png"}
+{"name": "Logistics Modern Pickup", "versions": {"DESERT": "/Game/Vehicles/Technical2Seater/Technical4Seater/BP_Armored_Technical4Seater_Logi_Camo.BP_Armored_Technical4Seater_Logi_Camo_C"}, "class_names": ["BP_Technical4Seater_Logi_Camo_C", "BP_Armored_Technical4Seater_Logi_Camo_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_logistics.png"}

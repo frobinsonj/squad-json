@@ -1,1 +1,1 @@
-{"name": "M203 High Explosive", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}
+{"name": "M203 High Explosive", "class_name": "BP_M16A4M203_M150_UGL_HE_C", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

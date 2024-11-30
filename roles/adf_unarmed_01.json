@@ -1,1 +1,1 @@
-{"type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/AUS/BP_Soldier_ADF_Unarmed.BP_Soldier_ADF_Unarmed_C"}, "class_names": ["BP_Soldier_ADF_Unarmed_C"], "type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}

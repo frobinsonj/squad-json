@@ -1,0 +1,1 @@
+{"name": "AS-VAL + PSO-1", "class_name": "BP_ASVAL_Optic_C", "category": "rifle", "image": "items/optic.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "9x39mm Subsonic", "rate_of_fire": "800 RPM", "fire_mode": "Semi, Auto"}}

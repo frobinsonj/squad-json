@@ -1,1 +1,1 @@
-{"name": "Milan AT Missile", "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}
+{"name": "Milan AT Missile", "versions": {"FOREST": "/Game/Vehicles/Emplaced_F2_MILAN/BP_F2_MILAN_ATGM_Deployable.BP_F2_MILAN_ATGM_Deployable_C", "DESERT": "/Game/Vehicles/Emplaced_F2_MILAN/BP_F2_MILAN_ATGM_Deployable.BP_F2_MILAN_ATGM_Deployable_C"}, "class_names": ["BP_F2_MILAN_ATGM_Deployable_C"], "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}

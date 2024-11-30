@@ -1,1 +1,1 @@
-{"name": "NSV HMG Bunker", "type": "hmg_protected", "icon": "icons/radial/mgbunker.png"}
+{"name": "NSV HMG Bunker", "versions": {"FOREST": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_Kord_RGF_Bunker.BP_Kord_RGF_Bunker_C", "SNOW": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_Kord_RGF_Bunker_Snow.BP_Kord_RGF_Bunker_Snow_C", "DESERT": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_Kord_RGF_DE_Bunker.BP_Kord_RGF_DE_Bunker_C"}, "class_names": ["BP_Kord_RGF_Bunker_C", "BP_Kord_RGF_Bunker_Snow_C", "BP_Kord_RGF_DE_Bunker_C"], "type": "hmg_protected", "icon": "icons/radial/mgbunker.png"}

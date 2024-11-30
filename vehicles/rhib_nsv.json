@@ -1,1 +1,1 @@
-{"name": "RHIB NSV", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB NSV", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_RUS_NSV.BP_RHIB_RUS_NSV_C"}, "class_names": ["BP_RHIB_RUS_NSV_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

@@ -1,1 +1,1 @@
-{"name": "PKM- 1p29", "category": "machinegun", "image": "items/1p29.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}
+{"name": "PKM- 1p29", "class_name": "BP_PKM_1P29_C", "category": "machinegun", "image": "items/1p29.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}

@@ -1,1 +1,1 @@
-{"name": "CTM131 Transport QJY88", "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transporarmed.png"}
+{"name": "CTM131 Transport QJY88", "versions": {"FOREST": "/Game/Vehicles/CTM131_Truck/BP_CTM131.BP_CTM131_C", "DESERT": "/Game/Vehicles/CTM131_Truck/BP_CTM131_Desert.BP_CTM131_Desert_C"}, "class_names": ["BP_CTM131_C", "BP_CTM131_Desert_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transporarmed.png"}

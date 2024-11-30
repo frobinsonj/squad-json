@@ -1,1 +1,1 @@
-{"name": "SZ-1 Explosive (30s Fuze)", "category": "explosives", "image": "items/explosive.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}
+{"name": "SZ-1 Explosive (30s Fuze)", "class_name": "BP_SZ1_Explosive_Timed_C", "category": "explosives", "image": "items/explosive.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}

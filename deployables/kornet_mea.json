@@ -1,1 +1,1 @@
-{"name": "9M133 Kornet Missile", "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}
+{"name": "9M133 Kornet Missile", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_Kornet_Tripod_MEA.BP_Kornet_Tripod_MEA_C"}, "class_names": ["BP_Kornet_Tripod_MEA_C"], "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}

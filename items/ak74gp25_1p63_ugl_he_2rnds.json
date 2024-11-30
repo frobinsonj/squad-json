@@ -1,1 +1,1 @@
-{"name": "GP-25 Fragmentation", "category": "grenadelauncher", "image": "items/gp25.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (Frag) 0m (Smoke)"}}
+{"name": "GP-25 Fragmentation", "class_name": "BP_AK74GP25_1P63_UGL_HE_2Rnds_C", "category": "grenadelauncher", "image": "items/gp25.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (Frag) 0m (Smoke)"}}

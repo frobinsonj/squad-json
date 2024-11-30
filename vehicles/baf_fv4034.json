@@ -1,1 +1,1 @@
-{"name": "FV4034", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "FV4034", "versions": {"DESERT": "/Game/Vehicles/FV4034/BP_FV4034.BP_FV4034_C", "FOREST": "/Game/Vehicles/FV4034/BP_FV4034_Woodland.BP_FV4034_Woodland_C", "SNOW": "/Game/Vehicles/FV4034/BP_FV4034_Woodland.BP_FV4034_Woodland_C"}, "class_names": ["BP_FV4034_C", "BP_FV4034_Woodland_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

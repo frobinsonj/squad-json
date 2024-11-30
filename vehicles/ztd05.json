@@ -1,1 +1,1 @@
-{"name": "ZTD05", "tickets": 10, "type": "MGS", "tags": ["WATERCRAFT", "CLASS_HEAVY"], "icon": "icons/map/mgs.png"}
+{"name": "ZTD05", "versions": {"FOREST": "/Game/Vehicles/ZTD05/BP_ZTD05_WoodLand.BP_ZTD05_WoodLand_C", "SNOW": "/Game/Vehicles/ZTD05/BP_ZTD05_WoodLand.BP_ZTD05_WoodLand_C", "DESERT": "/Game/Vehicles/ZTD05/BP_ZTD05_WoodLand.BP_ZTD05_WoodLand_C"}, "class_names": ["BP_ZTD05_WoodLand_C"], "tickets": 10, "type": "MGS", "tags": ["WATERCRAFT", "CLASS_HEAVY"], "icon": "icons/map/mgs.png"}

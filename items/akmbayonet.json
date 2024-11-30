@@ -1,1 +1,1 @@
-{"name": "AKM Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "AKM Bayonet", "class_name": "BP_AKMBayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

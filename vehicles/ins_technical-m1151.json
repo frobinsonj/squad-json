@@ -1,1 +1,1 @@
-{"name": "M1151 Technical DSHK", "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}
+{"name": "M1151 Technical DSHK", "versions": {"DESERT": "/Game/Vehicles/M1151/BP_M1151_Technical.BP_M1151_Technical_C"}, "class_names": ["BP_M1151_Technical_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

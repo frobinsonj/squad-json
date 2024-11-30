@@ -23,6 +23,12 @@ This work is licensed under a
 |units|`{ [unit: string]: Unit }`|
 |vehicles|`{ [vehicle: string]: Vehicle }`|
 
+|Versions|Type|
+|-----------|--------|
+|DESERT|`"/Game/Blueprints/*" \| undefined`|
+|FOREST|`"/Game/Blueprints/*" \| undefined`|
+|SNOW|`"/Game/Blueprints/*" \| undefined`|
+
 |Metadata|Type|
 |-----------|--------|
 |squad_version|`string`|
@@ -37,10 +43,11 @@ This work is licensed under a
 |duration|`{ enroute: number, active: number }`|
 |delay|`{ initial: number, respawn: number }`|
 
-
 |Deployable|Type|
 |-----------|--------|
 |name|`string`|
+|versions|`Versions`|
+|class_names|`string[]`|
 |type|`string`|
 |icon|`"icons/radial/*.png"`|
 
@@ -59,6 +66,7 @@ This work is licensed under a
 |Item|Type|
 |-----------|--------|
 |name|`string`|
+|class_name|`string`|
 |category|`string`|
 |image|`"items/*.png"`|
 |icon|`"icons/item/*.png"`|
@@ -107,6 +115,8 @@ This work is licensed under a
 
 |Role|Type|
 |-----------|--------|
+|versions|`Versions`|
+|class_names|`string[]`|
 |type|`string`|
 |icon|`"icons/role/*.png"`|
 |tags|`string[]`|
@@ -129,6 +139,8 @@ This work is licensed under a
 |Vehicle|Type|
 |-----------|--------|
 |name|`string`|
+|versions|`Versions`|
+|class_names|`string[]`|
 |type|`string`|
 |tags|`string[]`|
 |tickets|`number`|

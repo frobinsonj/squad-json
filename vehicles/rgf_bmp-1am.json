@@ -1,1 +1,1 @@
-{"name": "BMP-1AM", "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "BMP-1AM", "versions": {"DESERT": "/Game/Vehicles/BMP-2/BP_BMP1AM_Desert.BP_BMP1AM_Desert_C", "FOREST": "/Game/Vehicles/BMP-2/BP_BMP1AM.BP_BMP1AM_C", "SNOW": "/Game/Vehicles/BMP-2/BP_BMP1AM.BP_BMP1AM_C"}, "class_names": ["BP_BMP1AM_Desert_C", "BP_BMP1AM_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

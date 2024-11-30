@@ -1,1 +1,1 @@
-{"name": "L83A1 Smoke Grenade", "category": "smokegrenade", "image": "items/smoke.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "L83A1 Smoke Grenade", "class_name": "BP_L83A1_Smoke_C", "category": "smokegrenade", "image": "items/smoke.png", "icon": "icons/item/smokegrenade.png", "info": null}

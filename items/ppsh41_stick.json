@@ -1,1 +1,1 @@
-{"name": "PPSh-41 + Stick Mag", "category": "rifle", "image": "items/stick.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "35 (Stick), 71 (Drum)", "caliber": "7.62x25mm Tokarev", "rate_of_fire": "1000 RPM", "fire_mode": "Auto, Semi"}}
+{"name": "PPSh-41 + Stick Mag", "class_name": "BP_Ppsh41_Stick_C", "category": "rifle", "image": "items/stick.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "35 (Stick), 71 (Drum)", "caliber": "7.62x25mm Tokarev", "rate_of_fire": "1000 RPM", "fire_mode": "Auto, Semi"}}

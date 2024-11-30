@@ -1,1 +1,1 @@
-{"type": "crewman", "icon": "icons/role/crewman.png", "tags": ["SUPPORT"], "items": ["aks74u_2mags", "makarov", "akmbayonet", "rdg2smoke", "generic_fielddressing", "mpl50_shovel", "repairtool", "soviet_binoculars"]}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/MIL/BP_Soldier_IMF_Crewman.BP_Soldier_IMF_Crewman_C"}, "class_names": ["BP_Soldier_IMF_Crewman_C"], "type": "crewman", "icon": "icons/role/crewman.png", "tags": ["SUPPORT"], "items": ["aks74u_2mags", "makarov", "akmbayonet", "rdg2smoke", "generic_fielddressing", "mpl50_shovel", "repairtool", "soviet_binoculars"]}

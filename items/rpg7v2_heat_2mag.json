@@ -1,1 +1,1 @@
-{"name": "RPG-7V2 High Explosive Anti-Tank", "category": "lat", "image": "items/rpg7v2heat.png", "icon": "icons/item/lat.png", "info": {"warhead": "85mm High Explosive Anti-Tank", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "400mm RHA"}}
+{"name": "RPG-7V2 High Explosive Anti-Tank", "class_name": "BP_RPG7V2_Heat_2Mag_C", "category": "lat", "image": "items/rpg7v2heat.png", "icon": "icons/item/lat.png", "info": {"warhead": "85mm High Explosive Anti-Tank", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "400mm RHA"}}

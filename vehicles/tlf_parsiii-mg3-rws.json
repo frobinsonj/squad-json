@@ -1,1 +1,1 @@
-{"name": "PARS III MG3 RWS", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/apc.png"}
+{"name": "PARS III MG3 RWS", "versions": {"FOREST": "/Game/Vehicles/PARS_III/BP_PARS3_MG3.BP_PARS3_MG3_C", "DESERT": "/Game/Vehicles/PARS_III/BP_PARS3_MG3_Desert.BP_PARS3_MG3_Desert_C"}, "class_names": ["BP_PARS3_MG3_C", "BP_PARS3_MG3_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/apc.png"}

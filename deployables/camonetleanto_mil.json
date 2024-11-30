@@ -1,1 +1,1 @@
-{"name": "Camo Net Lean-To", "type": "camo_net_lean_to", "icon": "icons/radial/camonetleanto.png"}
+{"name": "Camo Net Lean-To", "versions": {"FOREST": "/Game/Gameplay/Deployables/CamoNettings/BP_CamoNetLeanTo_IMF.BP_CamoNetLeanTo_IMF_C"}, "class_names": ["BP_CamoNetLeanTo_IMF_C"], "type": "camo_net_lean_to", "icon": "icons/radial/camonetleanto.png"}

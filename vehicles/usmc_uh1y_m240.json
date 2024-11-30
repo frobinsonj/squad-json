@@ -1,1 +1,1 @@
-{"name": "UH-1Y", "tickets": 5, "type": "UH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/transporthelo.png"}
+{"name": "UH-1Y", "versions": {"FOREST": "/Game/Vehicles/UH1Y/BP_UH1Y.BP_UH1Y_C"}, "class_names": ["BP_UH1Y_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_LIGHT"], "icon": "icons/map/transporthelo.png"}

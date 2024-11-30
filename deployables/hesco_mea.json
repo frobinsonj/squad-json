@@ -1,1 +1,1 @@
-{"name": "HASCO Block", "type": "hesco_single", "icon": "icons/radial/hescosingle.png"}
+{"name": "HASCO Block", "versions": {"DESERT": "/Game/Gameplay/Deployables/Hesco/Mea/BP_Hesco_DesertCam.BP_Hesco_DesertCam_C"}, "class_names": ["BP_Hesco_DesertCam_C"], "type": "hesco_single", "icon": "icons/radial/hescosingle.png"}

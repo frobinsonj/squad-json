@@ -1,1 +1,1 @@
-{"name": "PMT-76 + A940", "category": "machinegun", "image": "items/a940.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "900 RPM", "fire_mode": "Auto"}}
+{"name": "PMT-76 + A940", "class_name": "BP_PMT76_A940_C", "category": "machinegun", "image": "items/a940.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "900 RPM", "fire_mode": "Auto"}}

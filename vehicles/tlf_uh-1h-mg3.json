@@ -1,1 +1,1 @@
-{"name": "UH-1H MG3", "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}
+{"name": "UH-1H MG3", "versions": {"FOREST": "/Game/Vehicles/UH1H/BP_UH1H.BP_UH1H_C", "DESERT": "/Game/Vehicles/UH1H/BP_UH1H_Desert.BP_UH1H_Desert_C"}, "class_names": ["BP_UH1H_C", "BP_UH1H_Desert_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}

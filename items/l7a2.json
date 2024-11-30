@@ -1,1 +1,1 @@
-{"name": "L7A2 GPMG", "category": "machinegun", "image": "items/mag58.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}
+{"name": "L7A2 GPMG", "class_name": "BP_L7A2_C", "category": "machinegun", "image": "items/mag58.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}

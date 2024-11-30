@@ -1,1 +1,1 @@
-{"name": "BTR-D Kord", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}
+{"name": "BTR-D Kord", "versions": {"FOREST": "/Game/Vehicles/BTR-D/BP_BTR-D_Kord.BP_BTR-D_Kord_C", "DESERT": "/Game/Vehicles/BTR-D/BP_BTR-D_Kord_Desert.BP_BTR-D_Kord_Desert_C"}, "class_names": ["BP_BTR-D_Kord_C", "BP_BTR-D_Kord_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}

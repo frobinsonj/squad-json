@@ -1,1 +1,1 @@
-{"name": "M15 Anti-Tank Mine", "category": "explosives", "image": "items/mine.png", "icon": "icons/item/explosives.png", "info": {"operation": "Pressure Operated Detonation", "explosion_radius": "10m", "maximum_in_world": "10"}}
+{"name": "M15 Anti-Tank Mine", "class_name": "BP_M15_Antitank_Mine_C", "category": "explosives", "image": "items/mine.png", "icon": "icons/item/explosives.png", "info": {"operation": "Pressure Operated Detonation", "explosion_radius": "10m", "maximum_in_world": "10"}}

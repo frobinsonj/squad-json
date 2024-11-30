@@ -1,1 +1,1 @@
-{"name": "M1126 CROWS M2", "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY"], "icon": "icons/map/apc.png"}
+{"name": "M1126 CROWS M2", "versions": {"DESERT": "/Game/Vehicles/M1126/BP_M1126.BP_M1126_C", "FOREST": "/Game/Vehicles/M1126/BP_M1126_Woodland.BP_M1126_Woodland_C", "SNOW": "/Game/Vehicles/M1126/BP_M1126_Woodland.BP_M1126_Woodland_C"}, "class_names": ["BP_M1126_C", "BP_M1126_Woodland_C"], "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY"], "icon": "icons/map/apc.png"}

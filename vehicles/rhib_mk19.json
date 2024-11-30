@@ -1,1 +1,1 @@
-{"name": "RHIB Mk19", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB Mk19", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_US_Mk19.BP_RHIB_US_Mk19_C"}, "class_names": ["BP_RHIB_US_Mk19_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

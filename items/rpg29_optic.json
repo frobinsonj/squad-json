@@ -1,1 +1,1 @@
-{"name": "RPG-29 Tandem Heavy Anti-Tank", "category": "lat", "image": "items/1p38.png", "icon": "icons/item/lat.png", "info": {"warhead": "105mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}
+{"name": "RPG-29 Tandem Heavy Anti-Tank", "class_name": "BP_RPG29_Optic_C", "category": "lat", "image": "items/1p38.png", "icon": "icons/item/lat.png", "info": {"warhead": "105mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

@@ -1,0 +1,1 @@
+{"name": "M110 SASS + Suppressor", "class_name": "BP_M110_Optic_Suppressed_C", "category": "dmr", "image": "items/suppressor.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi"}}

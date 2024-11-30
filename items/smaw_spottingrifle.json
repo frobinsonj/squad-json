@@ -1,1 +1,1 @@
-{"name": "MK153 SMAW Spotting Rifle", "category": "lat", "image": "items/spottingrifle.png", "icon": "icons/item/lat.png", "info": {"caliber": "7.62x51mm Tracer", "guidance": "Unguided"}}
+{"name": "MK153 SMAW Spotting Rifle", "class_name": "BP_SMAW_SpottingRifle_C", "category": "lat", "image": "items/spottingrifle.png", "icon": "icons/item/lat.png", "info": {"caliber": "7.62x51mm Tracer", "guidance": "Unguided"}}

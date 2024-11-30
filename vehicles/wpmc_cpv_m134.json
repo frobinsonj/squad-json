@@ -1,1 +1,1 @@
-{"name": "CPV M134 Minigun", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}
+{"name": "CPV M134 Minigun", "versions": {"DESERT": "/Game/Vehicles/CPV/BP_CPV_M134_Red.BP_CPV_M134_Red_C", "SNOW": "/Game/Vehicles/CPV/BP_CPV_M134_Red.BP_CPV_M134_Red_C"}, "class_names": ["BP_CPV_M134_C", "BP_CPV_M134_Blue_C", "BP_CPV_M134_Red_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

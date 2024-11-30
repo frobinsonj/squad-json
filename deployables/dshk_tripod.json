@@ -1,1 +1,1 @@
-{"name": "DShK HMG Tripod", "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}
+{"name": "DShK HMG Tripod", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_DShK.BP_DShK_C"}, "class_names": ["BP_DShK_C"], "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}

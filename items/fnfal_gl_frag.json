@@ -1,1 +1,1 @@
-{"name": "FN FAL Fragmentation Rifle Grenade", "category": "grenadelauncher", "image": "items/frag.png", "icon": "icons/item/grenadelauncher.png", "info": null}
+{"name": "FN FAL Fragmentation Rifle Grenade", "class_name": "BP_FNFAL_GL_Frag_C", "category": "grenadelauncher", "image": "items/frag.png", "icon": "icons/item/grenadelauncher.png", "info": null}

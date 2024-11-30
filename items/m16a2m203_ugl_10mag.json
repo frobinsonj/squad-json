@@ -1,1 +1,1 @@
-{"name": "M203", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}
+{"name": "M203", "class_name": "BP_M16A2M203_UGL_10Mag_C", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

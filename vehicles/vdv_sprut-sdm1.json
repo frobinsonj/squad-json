@@ -1,1 +1,1 @@
-{"name": "Sprut-SDM1", "tickets": 10, "type": "MGS", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/mgs.png"}
+{"name": "Sprut-SDM1", "versions": {"DESERT": "/Game/Vehicles/Sprut-SDM1/BP_Sprut_Desert.BP_Sprut_Desert_C", "FOREST": "/Game/Vehicles/Sprut-SDM1/BP_Sprut.BP_Sprut_C", "SNOW": "/Game/Vehicles/Sprut-SDM1/BP_Sprut.BP_Sprut_C"}, "class_names": ["BP_Sprut_Desert_C", "BP_Sprut_C"], "tickets": 10, "type": "MGS", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/mgs.png"}

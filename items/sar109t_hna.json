@@ -1,1 +1,1 @@
-{"name": "SOR-109T + HNA", "category": "rifle", "image": "items/hna.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30", "caliber": "9x19mm", "rate_of_fire": "900 RPM", "fire_mode": "Auto, Semi"}}
+{"name": "SOR-109T + HNA", "class_name": "BP_SAR109T_HNA_C", "category": "rifle", "image": "items/hna.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30", "caliber": "9x19mm", "rate_of_fire": "900 RPM", "fire_mode": "Auto, Semi"}}

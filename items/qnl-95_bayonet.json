@@ -1,1 +1,1 @@
-{"name": "QNL95 Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "QNL95 Bayonet", "class_name": "BP_QNL-95_Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

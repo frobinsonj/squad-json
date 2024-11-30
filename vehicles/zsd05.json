@@ -1,1 +1,1 @@
-{"name": "ZSD05", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}
+{"name": "ZSD05", "versions": {"DESERT": "/Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89_Woodland.BP_ZSD05_QJZ-89_Woodland_C", "FOREST": "/Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89_Woodland.BP_ZSD05_QJZ-89_Woodland_C", "SNOW": "/Game/Vehicles/ZBD05/BP_ZSD05_QJZ-89_Woodland.BP_ZSD05_QJZ-89_Woodland_C"}, "class_names": ["BP_ZSD05_QJZ-89_Woodland_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}

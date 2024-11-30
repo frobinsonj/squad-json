@@ -1,1 +1,1 @@
-{"name": "M1064A3 M121", "tickets": 5, "type": "SPA", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/trackedapc_artillery.png"}
+{"name": "M1064A3 M121", "versions": {"DESERT": "/Game/Vehicles/M1064A3/BP_M1064A3_M121_Desert.BP_M1064A3_M121_Desert_C", "FOREST": "/Game/Vehicles/M1064A3/BP_M1064A3_M121.BP_M1064A3_M121_C", "SNOW": "/Game/Vehicles/M1064A3/BP_M1064A3_M121.BP_M1064A3_M121_C"}, "class_names": ["BP_M1064A3_M121_Desert_C", "BP_M1064A3_M121_C"], "tickets": 5, "type": "SPA", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/trackedapc_artillery.png"}

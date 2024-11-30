@@ -1,0 +1,1 @@
+{"versions": {"DESERT": "/Game/Blueprints/Soldiers/INS/BP_Soldier_INS_Rifleman7.BP_Soldier_INS_Rifleman7_C"}, "class_names": ["BP_Soldier_INS_Rifleman7_C"], "type": "rifleman", "icon": "icons/role/rifleman.png", "tags": ["RIFLEMAN"], "items": ["sks_optic", "makarov", "sks_optic_bayonet", "f1frag", "rdg2smoke", "generic_fielddressing", "mpl50_shovel", "infantry_ammobag_ins"]}

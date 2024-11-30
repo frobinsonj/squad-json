@@ -1,1 +1,1 @@
-{"name": "M-ATV TOW", "tickets": 10, "type": "TD", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "M-ATV TOW", "versions": {"DESERT": "/Game/Vehicles/MATV/BP_MATV_TOW.BP_MATV_TOW_C", "FOREST": "/Game/Vehicles/MATV/BP_MATV_TOW_Woodland.BP_MATV_TOW_Woodland_C", "SNOW": "/Game/Vehicles/MATV/BP_MATV_TOW_Woodland.BP_MATV_TOW_Woodland_C"}, "class_names": ["BP_MATV_TOW_C", "BP_MATV_TOW_Woodland_C"], "tickets": 10, "type": "TD", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/jeep_antitank.png"}

@@ -1,1 +1,1 @@
-{"name": "HAB (Spawn Bunker)", "type": "hab", "icon": "icons/radial/hab.png"}
+{"name": "HAB (Spawn Bunker)", "versions": {"DESERT": "/Game/Gameplay/Deployables/HABs/PLA/PLA_Hab_Desert.PLA_Hab_Desert_C", "FOREST": "/Game/Gameplay/Deployables/HABs/PLA/PLA_Hab.PLA_Hab_C", "SNOW": "/Game/Gameplay/Deployables/HABs/PLA/PLA_Hab_Winter.PLA_Hab_Winter_C"}, "class_names": ["PLA_Hab_Desert_C", "PLA_Hab_C", "PLA_Hab_Winter_C"], "type": "hab", "icon": "icons/radial/hab.png"}

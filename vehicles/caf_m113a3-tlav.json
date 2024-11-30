@@ -1,1 +1,1 @@
-{"name": "M113A3 TLAV", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "RWS"], "icon": "icons/map/trackedapc.png"}
+{"name": "M113A3 TLAV", "versions": {"DESERT": "/Game/Vehicles/TLAV/BP_M113A3_CAF_TLAV_Desert.BP_M113A3_CAF_TLAV_Desert_C", "FOREST": "/Game/Vehicles/TLAV/BP_M113A3_CAF_TLAV.BP_M113A3_CAF_TLAV_C", "SNOW": "/Game/Vehicles/TLAV/BP_M113A3_CAF_TLAV.BP_M113A3_CAF_TLAV_C"}, "class_names": ["BP_M113A3_CAF_TLAV_Desert_C", "BP_M113A3_CAF_TLAV_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "RWS"], "icon": "icons/map/trackedapc.png"}

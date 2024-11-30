@@ -1,1 +1,1 @@
-{"name": "PF98 Tandem High Explosive Anti-Tank", "category": "lat", "image": "items/heat.png", "icon": "icons/item/lat.png", "info": {"warhead": "120mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}
+{"name": "PF98 Tandem High Explosive Anti-Tank", "class_name": "BP_PF-98_Tandem_C", "category": "lat", "image": "items/heat.png", "icon": "icons/item/lat.png", "info": {"warhead": "120mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

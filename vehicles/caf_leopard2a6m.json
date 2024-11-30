@@ -1,1 +1,1 @@
-{"name": "Leopard 2A6M CAN", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "Leopard 2A6M CAN", "versions": {"DESERT": "/Game/Vehicles/Leopard2/BP_2A6_Desert.BP_2A6_Desert_C", "FOREST": "/Game/Vehicles/Leopard2/BP_2A6_Woodland.BP_2A6_Woodland_C", "SNOW": "/Game/Vehicles/Leopard2/BP_2A6_Woodland.BP_2A6_Woodland_C"}, "class_names": ["BP_2A6_Desert_C", "BP_2A6_Woodland_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

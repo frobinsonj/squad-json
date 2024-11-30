@@ -1,1 +1,1 @@
-{"name": "PP-87 Mortar", "type": "mortar", "icon": "icons/radial/mortars.png"}
+{"name": "PP-87 Mortar", "versions": {"DESERT": "/Game/Vehicles/Emplaced_PP87Mortar/BP_PP87Mortar_Deployable.BP_PP87Mortar_Deployable_C"}, "class_names": ["BP_PP87Mortar_Deployable_C"], "type": "mortar", "icon": "icons/radial/mortars.png"}

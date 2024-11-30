@@ -1,1 +1,1 @@
-{"name": "M2A1 HMG Tripod (Shielded)", "type": "hmg_protected_extra", "icon": "icons/radial/heavymachinegunshield.png"}
+{"name": "M2A1 HMG Tripod (Shielded)", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_M2HB_Tripod_Shielded.BP_M2HB_Tripod_Shielded_C"}, "class_names": ["BP_M2HB_Tripod_Shielded_C"], "type": "hmg_protected_extra", "icon": "icons/radial/heavymachinegunshield.png"}

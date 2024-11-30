@@ -1,1 +1,1 @@
-{"name": "AKM", "category": "rifle", "image": "items/akm.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "AKM", "class_name": "BP_AKM_Recruit_C", "category": "rifle", "image": "items/akm.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

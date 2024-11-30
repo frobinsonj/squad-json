@@ -1,1 +1,1 @@
-{"name": "HASCO Wall", "type": "hesco_wall", "icon": "icons/radial/hescowall.png"}
+{"name": "HASCO Wall", "versions": {"DESERT": "/Game/Gameplay/Deployables/Hesco/Mea/BP_HescoWall_DesertCam.BP_HescoWall_DesertCam_C"}, "class_names": ["BP_HescoWall_DesertCam_C"], "type": "hesco_wall", "icon": "icons/radial/hescowall.png"}

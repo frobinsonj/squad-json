@@ -1,1 +1,1 @@
-{"name": "ACV-15 MG3", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}
+{"name": "ACV-15 MG3", "versions": {"FOREST": "/Game/Vehicles/ACV-15/BP_ACV-15_MG3.BP_ACV-15_MG3_C", "DESERT": "/Game/Vehicles/ACV-15/BP_ACV-15_MG3_Desert.BP_ACV-15_MG3_Desert_C"}, "class_names": ["BP_ACV-15_MG3_C", "BP_ACV-15_MG3_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}

@@ -1,1 +1,1 @@
-{"name": "QJZ-89 HMG Tripod", "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}
+{"name": "QJZ-89 HMG Tripod", "versions": {"DESERT": "/Game/Vehicles/Emplaced_QJZ-89/BP_QJZ-89_Deployable.BP_QJZ-89_Deployable_C"}, "class_names": ["BP_QJZ-89_Deployable_C"], "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}

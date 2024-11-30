@@ -1,1 +1,1 @@
-{"name": "NSV HMG Tripod", "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}
+{"name": "NSV HMG Tripod", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_Kord_Tripod.BP_Kord_Tripod_C"}, "class_names": ["BP_Kord_Tripod_C"], "type": "hmg", "icon": "icons/radial/heavymachinegun.png"}

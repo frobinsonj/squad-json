@@ -1,1 +1,1 @@
-{"name": "C8A3 + Tracer", "category": "rifle", "image": "items/ironsight.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "C8A3 + Tracer", "class_name": "BP_C8A3_Ironsights_Tracer_2mags_C", "category": "rifle", "image": "items/ironsight.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}

@@ -1,1 +1,1 @@
-{"name": "ZBD04A", "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "ATGM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "ZBD04A", "versions": {"DESERT": "/Game/Vehicles/ZBD04A/BP_ZBD04A_Desert.BP_ZBD04A_Desert_C", "FOREST": "/Game/Vehicles/ZBD04A/BP_ZBD04A.BP_ZBD04A_C", "SNOW": "/Game/Vehicles/ZBD04A/BP_ZBD04A.BP_ZBD04A_C"}, "class_names": ["BP_ZBD04A_Desert_C", "BP_ZBD04A_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "ATGM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

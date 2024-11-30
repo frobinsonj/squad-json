@@ -1,1 +1,1 @@
-{"name": "HK79 High Explosive", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m", "zeroing": "50m-350m"}}
+{"name": "HK79 High Explosive", "class_name": "BP_G3A3HK79_Optic_UGL_HE_C", "category": "grenadelauncher", "image": "items/gl.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m", "zeroing": "50m-350m"}}

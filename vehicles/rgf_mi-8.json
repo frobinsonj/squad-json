@@ -1,1 +1,1 @@
-{"name": "Mi-8", "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}
+{"name": "Mi-8", "versions": {"FOREST": "/Game/Vehicles/MI8/BP_MI8.BP_MI8_C"}, "class_names": ["BP_MI8_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}

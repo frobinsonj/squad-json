@@ -1,1 +1,1 @@
-{"type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/USMC_Woodland/BP_Soldier_USMC_Plain2_Woodland.BP_Soldier_USMC_Plain2_Woodland_C", "DESERT": "/Game/Blueprints/Soldiers/USMC/BP_Soldier_USMC_Plain2.BP_Soldier_USMC_Plain2_C"}, "class_names": ["BP_Soldier_USMC_Plain2_Woodland_C", "BP_Soldier_USMC_Plain2_C"], "type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}

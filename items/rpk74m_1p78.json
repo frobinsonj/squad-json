@@ -1,1 +1,1 @@
-{"name": "RPK-74M + 1P78", "category": "machinegun", "image": "items/1p78.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "45+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}
+{"name": "RPK-74M + 1P78", "class_name": "BP_RPK74M_1P78_C", "category": "machinegun", "image": "items/1p78.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "45+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}

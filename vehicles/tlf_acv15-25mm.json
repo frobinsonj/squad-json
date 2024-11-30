@@ -1,1 +1,1 @@
-{"name": "ACV-15 25mm", "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "ACV-15 25mm", "versions": {"FOREST": "/Game/Vehicles/ACV-15/BP_ACV-15.BP_ACV-15_C", "DESERT": "/Game/Vehicles/ACV-15/BP_ACV-15_Desert.BP_ACV-15_Desert_C"}, "class_names": ["BP_ACV-15_C", "BP_ACV-15_Desert_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

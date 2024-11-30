@@ -1,1 +1,1 @@
-{"name": "RPG-7 Fragmentation", "category": "lat", "image": "items/rpg7frag.png", "icon": "icons/item/lat.png", "info": {"warhead": "40mm Fragmentation", "guidance": "Unguided", "explosion_radius": "16m", "penetration_capability": "9mm RHA"}}
+{"name": "RPG-7 Fragmentation", "class_name": "BP_RPG7_Frag_5Mag_C", "category": "lat", "image": "items/rpg7frag.png", "icon": "icons/item/lat.png", "info": {"warhead": "40mm Fragmentation", "guidance": "Unguided", "explosion_radius": "16m", "penetration_capability": "9mm RHA"}}

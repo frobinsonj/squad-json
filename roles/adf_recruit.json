@@ -1,1 +1,1 @@
-{"type": "recruit", "icon": "icons/role/recruit.png", "tags": ["RECRUIT"], "items": ["ef88_ironsight_frontgrip_1mag", "adf_fielddressing"]}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/AUS/BP_Soldier_ADF_Recruit.BP_Soldier_ADF_Recruit_C"}, "class_names": ["BP_Soldier_ADF_Recruit_C"], "type": "recruit", "icon": "icons/role/recruit.png", "tags": ["RECRUIT"], "items": ["ef88_ironsight_frontgrip_1mag", "adf_fielddressing"]}

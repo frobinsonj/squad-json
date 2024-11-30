@@ -1,1 +1,1 @@
-{"name": "Indirect Fire Shelter", "type": "indirect_fire_shelter", "icon": "icons/radial/directfireshelter.png"}
+{"name": "Indirect Fire Shelter", "versions": {"DESERT": "/Game/Gameplay/Deployables/FireShelters/BP_Indirect_Mortar_Shelter_Desert_MEA.BP_Indirect_Mortar_Shelter_Desert_MEA_C"}, "class_names": ["BP_Indirect_Mortar_Shelter_Desert_MEA_C"], "type": "indirect_fire_shelter", "icon": "icons/radial/directfireshelter.png"}

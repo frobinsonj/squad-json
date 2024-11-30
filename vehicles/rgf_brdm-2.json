@@ -1,1 +1,1 @@
-{"name": "BRDM-2", "tickets": 5, "type": "LTV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/jeep_turret.png"}
+{"name": "BRDM-2", "versions": {"DESERT": "/Game/Vehicles/BRDM-2/BP_BRDM-2_RUS_Desert.BP_BRDM-2_RUS_Desert_C", "FOREST": "/Game/Vehicles/BRDM-2/BP_BRDM-2_RUS.BP_BRDM-2_RUS_C", "SNOW": "/Game/Vehicles/BRDM-2/BP_BRDM-2_RUS.BP_BRDM-2_RUS_C"}, "class_names": ["BP_BRDM-2_RUS_Desert_C", "BP_BRDM-2_RUS_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/jeep_turret.png"}

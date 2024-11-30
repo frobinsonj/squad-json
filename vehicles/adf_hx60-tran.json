@@ -1,1 +1,1 @@
-{"name": "HX60 Transport", "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transport.png"}
+{"name": "HX60 Transport", "versions": {"DESERT": "/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck.BP_Aussie_Util_Truck_C", "FOREST": "/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck.BP_Aussie_Util_Truck_C", "SNOW": "/Game/Vehicles/AUS_Utility_Truck/BP_Aussie_Util_Truck.BP_Aussie_Util_Truck_C"}, "class_names": ["BP_Aussie_Util_Truck_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transport.png"}

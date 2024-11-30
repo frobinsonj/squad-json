@@ -1,1 +1,1 @@
-{"name": "MT-LBM 6MB", "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "MT-LBM 6MB", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLBM_6MB_RUS_Desert.BP_MTLBM_6MB_RUS_Desert_C", "FOREST": "/Game/Vehicles/MTLB/BP_MTLBM_6MB_RUS.BP_MTLBM_6MB_RUS_C", "SNOW": "/Game/Vehicles/MTLB/BP_MTLBM_6MB_RUS.BP_MTLBM_6MB_RUS_C"}, "class_names": ["BP_MTLBM_6MB_RUS_Desert_C", "BP_MTLBM_6MB_RUS_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

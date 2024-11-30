@@ -1,1 +1,1 @@
-{"name": "MT-LB VMK", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "MT-LB VMK", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLB_VMK_RUS_Desert.BP_MTLB_VMK_RUS_Desert_C", "FOREST": "/Game/Vehicles/MTLB/BP_MTLB_VMK_RUS.BP_MTLB_VMK_RUS_C", "SNOW": "/Game/Vehicles/MTLB/BP_MTLB_VMK_RUS.BP_MTLB_VMK_RUS_C"}, "class_names": ["BP_MTLB_VMK_RUS_Desert_C", "BP_MTLB_VMK_RUS_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

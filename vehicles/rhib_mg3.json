@@ -1,1 +1,1 @@
-{"name": "RHIB MG3", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB MG3", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_MEA_MG3.BP_RHIB_MEA_MG3_C"}, "class_names": ["BP_RHIB_MEA_MG3_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

@@ -1,1 +1,1 @@
-{"name": "PMV RWS M2", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "RWS"], "icon": "icons/map/jeep_turret.png"}
+{"name": "PMV RWS M2", "versions": {"DESERT": "/Game/Vehicles/PMV/BP_PMV_RWS.BP_PMV_RWS_C", "FOREST": "/Game/Vehicles/PMV/BP_PMV_RWS.BP_PMV_RWS_C", "SNOW": "/Game/Vehicles/PMV/BP_PMV_RWS.BP_PMV_RWS_C"}, "class_names": ["BP_PMV_RWS_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "RWS"], "icon": "icons/map/jeep_turret.png"}

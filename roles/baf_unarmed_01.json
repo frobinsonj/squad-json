@@ -1,1 +1,1 @@
-{"type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/GB/BP_Soldier_BAF_Rifleman1.BP_Soldier_BAF_Rifleman1_C"}, "class_names": ["BP_Soldier_BAF_Rifleman1_C"], "type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}

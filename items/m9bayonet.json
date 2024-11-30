@@ -1,1 +1,1 @@
-{"name": "M9 Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "M9 Bayonet", "class_name": "BP_M9Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

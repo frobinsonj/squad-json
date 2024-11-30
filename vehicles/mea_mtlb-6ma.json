@@ -1,1 +1,1 @@
-{"name": "MTLB 6MA UB-32", "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "MTLB 6MA UB-32", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLBM_6MA_MEA.BP_MTLBM_6MA_MEA_C"}, "class_names": ["BP_MTLBM_6MA_MEA_C"], "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

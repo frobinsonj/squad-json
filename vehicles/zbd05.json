@@ -1,1 +1,1 @@
-{"name": "ZBD05", "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "ATGM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "ZBD05", "versions": {"DESERT": "/Game/Vehicles/ZBD05/BP_ZBD05_HJ73C_Woodland.BP_ZBD05_HJ73C_Woodland_C", "FOREST": "/Game/Vehicles/ZBD05/BP_ZBD05_HJ73C_Woodland.BP_ZBD05_HJ73C_Woodland_C", "SNOW": "/Game/Vehicles/ZBD05/BP_ZBD05_HJ73C_Woodland.BP_ZBD05_HJ73C_Woodland_C"}, "class_names": ["BP_ZBD05_HJ73C_Woodland_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "ATGM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

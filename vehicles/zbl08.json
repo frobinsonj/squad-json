@@ -1,1 +1,1 @@
-{"name": "ZBL08", "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/ifv.png"}
+{"name": "ZBL08", "versions": {"DESERT": "/Game/Vehicles/ZBL08/BP_ZBL08_HJ73C_Desert.BP_ZBL08_HJ73C_Desert_C", "FOREST": "/Game/Vehicles/ZBL08/BP_ZBL08_HJ73C.BP_ZBL08_HJ73C_C", "SNOW": "/Game/Vehicles/ZBL08/BP_ZBL08_HJ73C.BP_ZBL08_HJ73C_C"}, "class_names": ["BP_ZBL08_HJ73C_Desert_C", "BP_ZBL08_HJ73C_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

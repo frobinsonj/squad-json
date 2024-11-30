@@ -1,0 +1,1 @@
+{"versions": {"DESERT": "/Game/Blueprints/Soldiers/INS/BP_Soldier_INS_Rifleman6.BP_Soldier_INS_Rifleman6_C"}, "class_names": ["BP_Soldier_INS_Rifleman6_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": ["RAIDER"], "items": ["akm_drummag", "g17_5mags", "akmbayonet", "f1frag", "rkg3antitank", "rdg2smoke", "generic_fielddressing", "mpl50_shovel", "soviet_binoculars"]}

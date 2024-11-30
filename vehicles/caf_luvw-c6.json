@@ -1,1 +1,1 @@
-{"name": "LUVW C6", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}
+{"name": "LUVW C6", "versions": {"DESERT": "/Game/Vehicles/LUVW/BP_LUVW_C6_Desert.BP_LUVW_C6_Desert_C", "FOREST": "/Game/Vehicles/LUVW/BP_LUVW_C6.BP_LUVW_C6_C", "SNOW": "/Game/Vehicles/LUVW/BP_LUVW_C6.BP_LUVW_C6_C"}, "class_names": ["BP_LUVW_C6_Desert_C", "BP_LUVW_C6_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}

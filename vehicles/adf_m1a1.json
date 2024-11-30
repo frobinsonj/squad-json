@@ -1,1 +1,1 @@
-{"name": "M1A1", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "M1A1", "versions": {"DESERT": "/Game/Vehicles/AUS_M1A1/BP_AUS_M1A1.BP_AUS_M1A1_C", "FOREST": "/Game/Vehicles/AUS_M1A1/BP_AUS_M1A1.BP_AUS_M1A1_C", "SNOW": "/Game/Vehicles/AUS_M1A1/BP_AUS_M1A1.BP_AUS_M1A1_C"}, "class_names": ["BP_AUS_M1A1_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

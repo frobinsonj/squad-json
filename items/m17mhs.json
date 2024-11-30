@@ -1,1 +1,1 @@
-{"name": "M17 Modular Handgun System", "category": "pistol", "image": "items/m17mhs.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}
+{"name": "M17 Modular Handgun System", "class_name": "BP_M17MHS_C", "category": "pistol", "image": "items/m17mhs.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

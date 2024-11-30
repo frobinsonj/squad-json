@@ -1,1 +1,1 @@
-{"name": "M3 MAAWS Smoke", "category": "lat", "image": "items/smoke.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm Smoke", "guidance": "Unguided", "zeroing": "50m-700m, 2.8x 500m BDC"}}
+{"name": "M3 MAAWS Smoke", "class_name": "BP_M3MAAWS_Smoke_2mags_C", "category": "lat", "image": "items/smoke.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm Smoke", "guidance": "Unguided", "zeroing": "50m-700m, 2.8x 500m BDC"}}

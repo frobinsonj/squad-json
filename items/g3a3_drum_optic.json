@@ -1,1 +1,1 @@
-{"name": "G3A3 + ZF1 + Drum Mag", "category": "rifle", "image": "items/zf1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "50+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "G3A3 + ZF1 + Drum Mag", "class_name": "BP_G3A3_Drum_Optic_C", "category": "rifle", "image": "items/zf1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "50+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

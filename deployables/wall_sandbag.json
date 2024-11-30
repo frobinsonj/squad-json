@@ -1,1 +1,1 @@
-{"name": "Sandbag Line", "type": "wall", "icon": "icons/radial/sandbagsstraight.png"}
+{"name": "Sandbag Line", "versions": {"FOREST": "/Game/Gameplay/Deployables/Sandbags/BP_I_Sandbag_2.BP_I_Sandbag_2_C", "DESERT": "/Game/Gameplay/Deployables/Sandbags/BP_DesertSandbag.BP_DesertSandbag_C", "SNOW": "/Game/Gameplay/Deployables/Sandbags/BP_Sandbag_Winter.BP_Sandbag_Winter_C"}, "class_names": ["BP_I_Sandbag_2_C", "BP_DesertSandbag_C", "BP_Sandbag_Winter_C"], "type": "wall", "icon": "icons/radial/sandbagsstraight.png"}

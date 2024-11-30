@@ -1,1 +1,1 @@
-{"name": "Hell Cannon", "type": "hell_cannon", "icon": "icons/radial/hellcannon.png"}
+{"name": "Hell Cannon", "versions": {"FOREST": "/Game/Vehicles/Emplaced_HellCannon/BP_Emplaced_HellCannon_Deployable.BP_Emplaced_HellCannon_Deployable_C", "DESERT": "/Game/Vehicles/Emplaced_HellCannon/BP_Emplaced_HellCannon_Deployable.BP_Emplaced_HellCannon_Deployable_C"}, "class_names": ["BP_Emplaced_HellCannon_Deployable_C"], "type": "hell_cannon", "icon": "icons/radial/hellcannon.png"}

@@ -1,1 +1,1 @@
-{"name": "M1128 MGS", "tickets": 10, "type": "MGS", "tags": ["CLASS_HEAVY"], "icon": "icons/map/mgs.png"}
+{"name": "M1128 MGS", "versions": {"DESERT": "/Game/Vehicles/M1128_MGS/BP_M1128.BP_M1128_C", "FOREST": "/Game/Vehicles/M1128_MGS/BP_M1128_Woodland.BP_M1128_Woodland_C", "SNOW": "/Game/Vehicles/M1128_MGS/BP_M1128_Woodland.BP_M1128_Woodland_C"}, "class_names": ["BP_M1128_C", "BP_M1128_Woodland_C"], "tickets": 10, "type": "MGS", "tags": ["CLASS_HEAVY"], "icon": "icons/map/mgs.png"}

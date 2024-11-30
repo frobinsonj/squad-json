@@ -1,1 +1,1 @@
-{"name": "M1151 TOW", "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "M1151 TOW", "versions": [{"class_name": "BP_M1151_Light_TOW_C", "path": "/Game/Vehicles/M1151/BP_M1151_Light_TOW.BP_M1151_Light_TOW_C", "biomes": ["DESERT"]}, {"class_name": "BP_M1151_Light_TOW_Woodland_C", "path": "/Game/Vehicles/M1151/BP_M1151_Light_TOW_Woodland.BP_M1151_Light_TOW_Woodland_C", "biomes": ["FOREST", "SNOW"]}], "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}

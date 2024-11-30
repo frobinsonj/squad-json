@@ -1,1 +1,1 @@
-{"name": "L129A1 Sharpshooter Rifle", "category": "dmr", "image": "items/l129a1.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi"}}
+{"name": "L129A1 Sharpshooter Rifle", "class_name": "BP_L129A1_Optic_C", "category": "dmr", "image": "items/l129a1.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi"}}

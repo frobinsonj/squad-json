@@ -1,1 +1,1 @@
-{"name": "PM md. 63", "category": "rifle", "image": "items/pmmd63.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "PM md. 63", "class_name": "BP_PMMD63_C", "category": "rifle", "image": "items/pmmd63.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

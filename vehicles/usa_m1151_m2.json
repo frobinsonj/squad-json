@@ -1,1 +1,1 @@
-{"name": "M1151 M2", "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}
+{"name": "M1151 M2", "versions": {"DESERT": "/Game/Vehicles/M1151/BP_M1151.BP_M1151_C", "FOREST": "/Game/Vehicles/M1151/BP_M1151_Woodland.BP_M1151_Woodland_C", "SNOW": "/Game/Vehicles/M1151/BP_M1151_Woodland.BP_M1151_Woodland_C"}, "class_names": ["BP_M1151_C", "BP_M1151_Woodland_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}

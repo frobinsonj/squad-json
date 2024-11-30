@@ -1,1 +1,1 @@
-{"type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/PLANMC/BP_Soldier_PLANMC_Plain1.BP_Soldier_PLANMC_Plain1_C", "DESERT": "/Game/Blueprints/Soldiers/PLANMC_Desert/BP_Soldier_PLANMC_Plain1_Desert.BP_Soldier_PLANMC_Plain1_Desert_C"}, "class_names": ["BP_Soldier_PLANMC_Plain1_C", "BP_Soldier_PLANMC_Plain1_Desert_C"], "type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}

@@ -1,1 +1,1 @@
-{"name": "Improvised Explosive Device", "category": "explosives", "image": "items/ied.png", "icon": "icons/item/explosives.png", "info": {"operation": "Command Detonation", "explosion_radius": "20m", "maximum_allowed": "5"}}
+{"name": "Improvised Explosive Device", "class_name": "BP_IED_C", "category": "explosives", "image": "items/ied.png", "icon": "icons/item/explosives.png", "info": {"operation": "Command Detonation", "explosion_radius": "20m", "maximum_allowed": "5"}}

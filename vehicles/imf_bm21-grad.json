@@ -1,1 +1,1 @@
-{"name": "BM-21 Grad", "tickets": 10, "type": "SPA", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_artillery.png"}
+{"name": "BM-21 Grad", "versions": {"FOREST": "/Game/Vehicles/BM21Grad/BP_BM21Grad_MIL.BP_BM21Grad_MIL_C"}, "class_names": ["BP_BM21Grad_MIL_C"], "tickets": 10, "type": "SPA", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_artillery.png"}

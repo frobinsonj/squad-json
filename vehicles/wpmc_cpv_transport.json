@@ -1,1 +1,1 @@
-{"name": "CPV Transport", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}
+{"name": "CPV Transport", "versions": {"DESERT": "/Game/Vehicles/CPV/BP_CPV_Transport_Red.BP_CPV_Transport_Red_C", "SNOW": "/Game/Vehicles/CPV/BP_CPV_Transport_Red.BP_CPV_Transport_Red_C"}, "class_names": ["BP_CPV_Transport_C", "BP_CPV_Transport_Blue_C", "BP_CPV_Transport_Red_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}

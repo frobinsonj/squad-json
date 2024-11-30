@@ -1,1 +1,1 @@
-{"name": "M60T", "tickets": 15, "type": "MBT", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/tank.png"}
+{"name": "M60T", "versions": {"FOREST": "/Game/Vehicles/M60T/BP_M60T.BP_M60T_C", "DESERT": "/Game/Vehicles/M60T/BP_M60T_Desert.BP_M60T_Desert_C"}, "class_names": ["BP_M60T_C", "BP_M60T_Desert_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/tank.png"}

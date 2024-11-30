@@ -1,1 +1,1 @@
-{"name": "Mi-17", "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}
+{"name": "Mi-17", "versions": {"DESERT": "/Game/Vehicles/MI17_MEA/BP_MI17_MEA.BP_MI17_MEA_C"}, "class_names": ["BP_MI17_MEA_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}

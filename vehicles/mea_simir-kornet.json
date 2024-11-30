@@ -1,1 +1,1 @@
-{"name": "Simir Kornet", "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "Simir Kornet", "versions": {"DESERT": "/Game/Vehicles/Safir/BP_Safir_Kornet.BP_Safir_Kornet_C"}, "class_names": ["BP_Safir_Kornet_C"], "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}

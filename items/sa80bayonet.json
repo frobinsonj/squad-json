@@ -1,1 +1,1 @@
-{"name": "SA80 Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "SA80 Bayonet", "class_name": "BP_SA80Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

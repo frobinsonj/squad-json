@@ -1,1 +1,1 @@
-{"name": "M1A2", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "M1A2", "versions": {"DESERT": "/Game/Vehicles/M1A2/BP_M1A2.BP_M1A2_C", "FOREST": "/Game/Vehicles/M1A2/BP_M1A2_Woodland.BP_M1A2_Woodland_C", "SNOW": "/Game/Vehicles/M1A2/BP_M1A2_Woodland.BP_M1A2_Woodland_C"}, "class_names": ["BP_M1A2_C", "BP_M1A2_Woodland_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

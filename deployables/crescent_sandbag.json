@@ -1,1 +1,1 @@
-{"name": "Sandbag Crescent", "type": "wall_crescent", "icon": "icons/radial/sandbagscorner.png"}
+{"name": "Sandbag Crescent", "versions": {"FOREST": "/Game/Gameplay/Deployables/Sandbags/BP_SandBagWall_2.BP_SandBagWall_2_C", "DESERT": "/Game/Gameplay/Deployables/Sandbags/BP_SandBagWall_Desert.BP_SandBagWall_Desert_C", "SNOW": "/Game/Gameplay/Deployables/Sandbags/BP_SandBagWall_Winter.BP_SandBagWall_Winter_C"}, "class_names": ["BP_SandBagWall_2_C", "BP_SandBagWall_Desert_C", "BP_SandBagWall_Winter_C"], "type": "wall_crescent", "icon": "icons/radial/sandbagscorner.png"}

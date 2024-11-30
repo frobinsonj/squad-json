@@ -1,1 +1,1 @@
-{"name": "QJB95-1 LSW", "category": "rifle", "image": "items/qjb95-1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "75+1", "caliber": "5.8x42mm ", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "QJB95-1 LSW", "class_name": "BP_QJB95-1_LSW_C", "category": "rifle", "image": "items/qjb95-1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "75+1", "caliber": "5.8x42mm ", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

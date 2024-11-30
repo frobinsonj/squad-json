@@ -1,1 +1,1 @@
-{"name": "RPG-7 Tandem Heavy Anti-Tank", "category": "lat", "image": "items/rpg7tandem.png", "icon": "icons/item/lat.png", "info": {"warhead": "105mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}
+{"name": "RPG-7 Tandem Heavy Anti-Tank", "class_name": "BP_RPG7_Tandem_2Mag_C", "category": "lat", "image": "items/rpg7tandem.png", "icon": "icons/item/lat.png", "info": {"warhead": "105mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

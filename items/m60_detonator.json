@@ -1,1 +1,1 @@
-{"name": "M60 Detonator", "category": "detonator", "image": "items/detonator.png", "icon": "icons/item/detonator.png", "info": null}
+{"name": "M60 Detonator", "class_name": "BP_M60_Detonator_C", "category": "detonator", "image": "items/detonator.png", "icon": "icons/item/detonator.png", "info": null}

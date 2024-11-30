@@ -1,1 +1,1 @@
-{"name": "Ural-375D ZU-23-2", "tickets": 5, "type": "SPAA", "tags": ["CLASS_LIGHT"], "icon": "icons/map/truck_antiair.png"}
+{"name": "Ural-375D ZU-23-2", "versions": {"DESERT": "/Game/Vehicles/Ural375/BP_Ural_375_ZU23.BP_Ural_375_ZU23_C"}, "class_names": ["BP_Ural_375_ZU23_C"], "tickets": 5, "type": "SPAA", "tags": ["CLASS_LIGHT"], "icon": "icons/map/truck_antiair.png"}

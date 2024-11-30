@@ -1,1 +1,1 @@
-{"name": "BGM-71 TOW Missile", "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}
+{"name": "BGM-71 TOW Missile", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_BGM71TOW_Tripod_USA.BP_BGM71TOW_Tripod_USA_C"}, "class_names": ["BP_BGM71TOW_Tripod_USA_C"], "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}

@@ -1,1 +1,1 @@
-{"name": "HK79 Smoke Marker Red", "category": "grenadelauncher", "image": "items/redsmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "zeroing": "50m-350m"}}
+{"name": "HK79 Smoke Marker Red", "class_name": "BP_G3A3HK79_Optic_UGL_Smoke_Red_C", "category": "grenadelauncher", "image": "items/redsmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "zeroing": "50m-350m"}}

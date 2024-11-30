@@ -1,1 +1,1 @@
-{"name": "QJY88 + YMA95", "category": "machinegun", "image": "items/scope.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.8x42mm ", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}
+{"name": "QJY88 + YMA95", "class_name": "BP_QJY-88_Optic_C", "category": "machinegun", "image": "items/scope.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.8x42mm ", "rate_of_fire": "700 RPM", "fire_mode": "Auto"}}

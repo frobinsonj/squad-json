@@ -1,1 +1,1 @@
-{"name": "Ammo Crate", "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}
+{"name": "Ammo Crate", "versions": {"DESERT": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_USMC_Desert.BP_Ammocrate_USMC_Desert_C", "FOREST": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_USMC_Woodland.BP_Ammocrate_USMC_Woodland_C"}, "class_names": ["BP_Ammocrate_USMC_Desert_C", "BP_Ammocrate_USMC_Woodland_C"], "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}

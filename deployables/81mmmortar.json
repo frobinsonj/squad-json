@@ -1,1 +1,1 @@
-{"name": "81mm Mortar", "type": "mortar", "icon": "icons/radial/mortars.png"}
+{"name": "81mm Mortar", "versions": {"DESERT": "/Game/Vehicles/Emplaced_81mmMortar_CAF/BP_81mmMortar_Deployable.BP_81mmMortar_Deployable_C"}, "class_names": ["BP_81mmMortar_Deployable_C"], "type": "mortar", "icon": "icons/radial/mortars.png"}

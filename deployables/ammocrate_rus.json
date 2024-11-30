@@ -1,1 +1,1 @@
-{"name": "Ammo Crate", "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}
+{"name": "Ammo Crate", "versions": {"FOREST": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_RGF_Woodland.BP_Ammocrate_RGF_Woodland_C", "DESERT": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_RGF_Desert.BP_Ammocrate_RGF_Desert_C", "SNOW": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_RGF_Woodland.BP_Ammocrate_RGF_Woodland_C"}, "class_names": ["BP_Ammocrate_RGF_Woodland_C", "BP_Ammocrate_RGF_Desert_C"], "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}

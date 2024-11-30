@@ -1,1 +1,1 @@
-{"name": "G17 Pistol", "category": "pistol", "image": "items/glock17.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}
+{"name": "G17 Pistol", "class_name": "BP_G17_3Mags_C", "category": "pistol", "image": "items/glock17.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

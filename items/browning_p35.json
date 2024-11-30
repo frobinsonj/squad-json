@@ -1,1 +1,1 @@
-{"name": "Browning Hi-Power", "category": "pistol", "image": "items/browninghp.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "13+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}
+{"name": "Browning Hi-Power", "class_name": "BP_Browning_P35_C", "category": "pistol", "image": "items/browninghp.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "13+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

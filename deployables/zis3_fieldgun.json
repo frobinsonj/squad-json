@@ -1,1 +1,1 @@
-{"name": "Zis3 76mm Field Gun", "type": "field_gun", "icon": "icons/radial/antitankgun.png"}
+{"name": "Zis3 76mm Field Gun", "versions": {"FOREST": "/Game/Vehicles/Emplaced_ZiS3_Cannon/BP_ZiS3_Deployable.BP_ZiS3_Deployable_C"}, "class_names": ["BP_ZiS3_Deployable_C"], "type": "field_gun", "icon": "icons/radial/antitankgun.png"}

@@ -1,1 +1,1 @@
-{"name": "MT-LB PKT", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "MT-LB PKT", "versions": {"FOREST": "/Game/Vehicles/MTLB/BP_MTLB_RGF.BP_MTLB_RGF_C", "DESERT": "/Game/Vehicles/MTLB/BP_MTLB_RGF_Desert.BP_MTLB_RGF_Desert_C", "SNOW": "/Game/Vehicles/MTLB/BP_MTLB_RGF.BP_MTLB_RGF_C"}, "class_names": ["BP_MTLB_RGF_C", "BP_MTLB_RGF_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

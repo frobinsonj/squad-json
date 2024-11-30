@@ -1,1 +1,1 @@
-{"name": "T-90A", "tickets": 15, "type": "MBT", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "T-90A", "versions": {"DESERT": "/Game/Vehicles/T90A/BP_T90A_Desert.BP_T90A_Desert_C", "FOREST": "/Game/Vehicles/T90A/BP_T90A.BP_T90A_C", "SNOW": "/Game/Vehicles/T90A/BP_T90A.BP_T90A_C"}, "class_names": ["BP_T90A_Desert_C", "BP_T90A_C"], "tickets": 15, "type": "MBT", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/tank.png"}

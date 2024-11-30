@@ -1,1 +1,1 @@
-{"name": "MT-LB ZU-23-2", "tickets": 5, "type": "SPAA", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/antiair.png"}
+{"name": "MT-LB ZU-23-2", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLB_ZU23_INS.BP_MTLB_ZU23_INS_C"}, "class_names": ["BP_MTLB_ZU23_INS_C"], "tickets": 5, "type": "SPAA", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/antiair.png"}

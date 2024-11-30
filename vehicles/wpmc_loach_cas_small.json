@@ -1,1 +1,1 @@
-{"name": "Loach CAS Small", "tickets": 10, "type": "AH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/attackhelo.png"}
+{"name": "Loach CAS Small", "versions": {"DESERT": "/Game/Vehicles/Loach_CAS_WPMC/BP_Loach_CAS_Small.BP_Loach_CAS_Small_C", "FOREST": "/Game/Vehicles/Loach_CAS_WPMC/BP_Loach_CAS_Small.BP_Loach_CAS_Small_C", "SNOW": "/Game/Vehicles/Loach_CAS_WPMC/BP_Loach_CAS_Small.BP_Loach_CAS_Small_C"}, "class_names": ["BP_Loach_CAS_Small_C"], "tickets": 10, "type": "AH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/helicopter_lightcas.png"}

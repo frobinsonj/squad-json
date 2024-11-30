@@ -1,1 +1,1 @@
-{"name": "M67 Fragmentation Grenade", "category": "fraggrenade", "image": "items/m67.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "M67 Fragmentation Grenade", "class_name": "BP_M67Frag_C", "category": "fraggrenade", "image": "items/m67.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}

@@ -1,1 +1,1 @@
-{"name": "LAV III C6 RWS", "tickets": 5, "type": "APC", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/apc.png"}
+{"name": "LAV III C6 RWS", "versions": {"DESERT": "/Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6_Desert.BP_LAV_RWS_C6_Desert_C", "FOREST": "/Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6.BP_LAV_RWS_C6_C", "SNOW": "/Game/Vehicles/LAV_RWS/BP_LAV_RWS_C6.BP_LAV_RWS_C6_C"}, "class_names": ["BP_LAV_RWS_C6_Desert_C", "BP_LAV_RWS_C6_C"], "tickets": 5, "type": "APC", "tags": ["LOW_CALIBER", "CLASS_LIGHT"], "icon": "icons/map/apc.png"}

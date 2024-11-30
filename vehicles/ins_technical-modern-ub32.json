@@ -1,1 +1,1 @@
-{"name": "Technical UB-32", "tickets": 5, "type": "SPA", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_artillery.png"}
+{"name": "Technical UB-32", "versions": {"DESERT": "/Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_UB32.BP_Technical2Seater_White_UB32_C"}, "class_names": ["BP_Technical2Seater_White_UB32_C"], "tickets": 5, "type": "SPA", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_artillery.png"}

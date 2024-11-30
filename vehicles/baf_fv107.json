@@ -1,1 +1,1 @@
-{"name": "FV107", "tickets": 10, "type": "RSV", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/trackedrecon.png"}
+{"name": "FV107", "versions": {"DESERT": "/Game/Vehicles/FV107/BP_FV107.BP_FV107_C", "FOREST": "/Game/Vehicles/FV107/BP_FV107_Woodland.BP_FV107_Woodland_C", "SNOW": "/Game/Vehicles/FV107/BP_FV107_Woodland.BP_FV107_Woodland_C"}, "class_names": ["BP_FV107_C", "BP_FV107_Woodland_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedrecon.png"}

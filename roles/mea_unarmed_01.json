@@ -1,1 +1,1 @@
-{"type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}
+{"versions": {"DESERT": "/Game/Blueprints/Soldiers/MEA/BP_Soldier_MEA_Plain2.BP_Soldier_MEA_Plain2_C"}, "class_names": ["BP_Soldier_MEA_Plain2_C"], "type": "unarmed", "icon": "icons/role/unarmed.png", "tags": [], "items": []}

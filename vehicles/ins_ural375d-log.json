@@ -1,1 +1,1 @@
-{"name": "Ural-375D Logistics", "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_logistics.png"}
+{"name": "Ural-375D Logistics", "versions": {"DESERT": "/Game/Vehicles/Ural375/BP_Ural_375_Logi_INS.BP_Ural_375_Logi_INS_C"}, "class_names": ["BP_Ural_375_Logi_INS_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_logistics.png"}

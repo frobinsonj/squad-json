@@ -1,1 +1,1 @@
-{"type": "recruit", "icon": "icons/role/recruit.png", "tags": ["RECRUIT"], "items": ["ak74_recruit", "generic_fielddressing"]}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/MIL/BP_Soldier_IMF_Rifleman1.BP_Soldier_IMF_Rifleman1_C"}, "class_names": ["BP_Soldier_IMF_Rifleman1_C"], "type": "recruit", "icon": "icons/role/recruit.png", "tags": ["RECRUIT"], "items": ["ak74_recruit", "generic_fielddressing"]}

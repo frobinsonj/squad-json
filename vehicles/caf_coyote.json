@@ -1,1 +1,1 @@
-{"name": "Coyote", "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY"], "icon": "icons/map/wheeledrecon.png"}
+{"name": "Coyote", "versions": {"DESERT": "/Game/Vehicles/Coyote/BP_LAV2_Coyote.BP_LAV2_Coyote_C", "FOREST": "/Game/Vehicles/Coyote/BP_LAV2_Coyote_Woodland.BP_LAV2_Coyote_Woodland_C", "SNOW": "/Game/Vehicles/Coyote/BP_LAV2_Coyote_Woodland.BP_LAV2_Coyote_Woodland_C"}, "class_names": ["BP_LAV2_Coyote_C", "BP_LAV2_Coyote_Woodland_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY"], "icon": "icons/map/wheeledrecon.png"}

@@ -1,1 +1,1 @@
-{"name": "SPG-9 Recoilless AT Gun", "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}
+{"name": "SPG-9 Recoilless AT Gun", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_SPG9_Tripod.BP_SPG9_Tripod_C"}, "class_names": ["BP_SPG9_Tripod_C"], "type": "at", "icon": "icons/radial/antitankguidedmissile.png"}

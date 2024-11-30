@@ -1,1 +1,1 @@
-{"name": "SKS", "category": "rifle", "image": "items/sks.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x39mm", "fire_mode": "Semi"}}
+{"name": "SKS", "class_name": "BP_SKS_C", "category": "rifle", "image": "items/sks.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x39mm", "fire_mode": "Semi"}}

@@ -1,1 +1,1 @@
-{"name": "CSK131 HJ8", "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "CSK131 HJ8", "versions": {"FOREST": "/Game/Vehicles/CSK131/BP_CSK131_HJ-8ATGM.BP_CSK131_HJ-8ATGM_C", "DESERT": "/Game/Vehicles/CSK131/BP_CSK131_HJ8ATGM_Desert.BP_CSK131_HJ8ATGM_Desert_C"}, "class_names": ["BP_CSK131_HJ-8ATGM_C", "BP_CSK131_HJ8ATGM_Desert_C"], "tickets": 5, "type": "TD", "tags": ["ATGM", "CLASS_MEDIUM"], "icon": "icons/map/jeep_antitank.png"}

@@ -1,1 +1,1 @@
-{"name": "Carl Gustav M2 High Explosive Anti Tank", "category": "lat", "image": "items/carlgustavm2+no78mk1.png", "icon": "icons/item/lat.png", "info": null}
+{"name": "Carl Gustav M2 High Explosive Anti Tank", "class_name": "BP_CarlGustavM2_2x_FFV551_No78Mk1_C", "category": "lat", "image": "items/carlgustavm2+no78mk1.png", "icon": "icons/item/lat.png", "info": null}

@@ -1,1 +1,1 @@
-{"name": "ZTZ99A", "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}
+{"name": "ZTZ99A", "versions": {"FOREST": "/Game/Vehicles/ZTZ99/BP_ZTZ99_wCage.BP_ZTZ99_wCage_C", "SNOW": "/Game/Vehicles/ZTZ99/BP_ZTZ99_wCage.BP_ZTZ99_wCage_C", "DESERT": "/Game/Vehicles/ZTZ99/BP_ZTZ99_Desert_wCage.BP_ZTZ99_Desert_wCage_C"}, "class_names": ["BP_ZTZ99_wCage_C", "BP_ZTZ99_Desert_wCage_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

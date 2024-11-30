@@ -1,1 +1,1 @@
-{"name": "HAB (Spawn Bunker)", "type": "hab", "icon": "icons/radial/hab.png"}
+{"name": "HAB (Spawn Bunker)", "versions": {"FOREST": "/Game/Gameplay/Deployables/HABs/IMF/IMF_hab.IMF_hab_C"}, "class_names": ["IMF_hab_C"], "type": "hab", "icon": "icons/radial/hab.png"}

@@ -1,1 +1,1 @@
-{"name": "Razor Wire", "category": "shovel", "image": "items/razorwire.png", "icon": "icons/item/shovel.png", "info": {"maximum_allowed": "10"}}
+{"name": "Razor Wire", "class_name": "BP_Infantry_Razorwire_C", "category": "shovel", "image": "items/razorwire.png", "icon": "icons/item/shovel.png", "info": {"maximum_allowed": "10"}}

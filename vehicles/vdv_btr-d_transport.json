@@ -1,0 +1,1 @@
+{"name": "BTR-D", "versions": {"FOREST": "/Game/Vehicles/BTR-D/BP_BTR-D_Transport.BP_BTR-D_Transport_C", "DESERT": "/Game/Vehicles/BTR-D/BP_BTR-D_Transport_Desert.BP_BTR-D_Transport_Desert_C"}, "class_names": ["BP_BTR-D_Transport_C", "BP_BTR-D_Transport_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc_noturret.png"}

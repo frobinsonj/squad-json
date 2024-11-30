@@ -1,1 +1,1 @@
-{"name": "L131A1 General Service Pistol", "category": "pistol", "image": "items/glock17.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}
+{"name": "L131A1 General Service Pistol", "class_name": "BP_L131A1_3Mags_C", "category": "pistol", "image": "items/glock17.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

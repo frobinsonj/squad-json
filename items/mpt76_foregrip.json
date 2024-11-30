@@ -1,1 +1,1 @@
-{"name": "MPT-76 + Angled Foregrip", "category": "rifle", "image": "items/foregrip.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "630 RPM", "fire_mode": "Semi, Full-Auto"}}
+{"name": "MPT-76 + Angled Foregrip", "class_name": "BP_MPT76_Foregrip_C", "category": "rifle", "image": "items/foregrip.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "630 RPM", "fire_mode": "Semi, Full-Auto"}}

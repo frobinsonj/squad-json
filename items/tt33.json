@@ -1,1 +1,1 @@
-{"name": "TT33 Tokarev", "category": "pistol", "image": "items/tt33.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "8+1", "caliber": "7.62x25mm Tokarev", "fire_mode": "Semi"}}
+{"name": "TT33 Tokarev", "class_name": "BP_TT33_C", "category": "pistol", "image": "items/tt33.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "8+1", "caliber": "7.62x25mm Tokarev", "fire_mode": "Semi"}}

@@ -1,1 +1,1 @@
-{"name": "AKM + Drum Mag", "category": "rifle", "image": "items/drummag.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "75+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "AKM + Drum Mag", "class_name": "BP_AKM_Drummag_C", "category": "rifle", "image": "items/drummag.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "75+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

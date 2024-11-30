@@ -1,1 +1,1 @@
-{"name": "F1 Fragmentation Grenade", "category": "fraggrenade", "image": "items/adff1frag.png", "icon": "icons/item/fraggrenade.png", "info": null}
+{"name": "F1 Fragmentation Grenade", "class_name": "BP_F1Frag_au_C", "category": "fraggrenade", "image": "items/adff1frag.png", "icon": "icons/item/fraggrenade.png", "info": null}

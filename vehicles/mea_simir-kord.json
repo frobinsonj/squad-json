@@ -1,1 +1,1 @@
-{"name": "Simir Kord", "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}
+{"name": "Simir Kord", "versions": {"DESERT": "/Game/Vehicles/Safir/BP_Safir_Kord.BP_Safir_Kord_C"}, "class_names": ["BP_Safir_Kord_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

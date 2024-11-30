@@ -1,1 +1,1 @@
-{"name": "M7A3", "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/trackedifv.png"}
+{"name": "M7A3", "versions": {"DESERT": "/Game/Vehicles/BFV/BP_M7A3_IFV.BP_M7A3_IFV_C", "FOREST": "/Game/Vehicles/BFV/BP_M7A3_IFV_Woodland.BP_M7A3_IFV_Woodland_C", "SNOW": "/Game/Vehicles/BFV/BP_M7A3_IFV_Woodland.BP_M7A3_IFV_Woodland_C"}, "class_names": ["BP_M7A3_IFV_C", "BP_M7A3_IFV_Woodland_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_HEAVY"], "icon": "icons/map/trackedifv.png"}

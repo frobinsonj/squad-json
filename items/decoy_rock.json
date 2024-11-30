@@ -1,1 +1,1 @@
-{"name": "Decoy Rock", "category": "explosives", "image": "items/rockdecoy.png", "icon": "icons/item/explosives.png", "info": {"maximum_allowed": "10"}}
+{"name": "Decoy Rock", "class_name": "BP_Decoy_Rock_C", "category": "explosives", "image": "items/rockdecoy.png", "icon": "icons/item/explosives.png", "info": {"maximum_allowed": "10"}}

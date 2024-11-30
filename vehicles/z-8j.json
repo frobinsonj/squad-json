@@ -1,1 +1,1 @@
-{"name": "Z-8J", "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}
+{"name": "Z-8J", "versions": {"FOREST": "/Game/Vehicles/Z8J/BP_Z8J.BP_Z8J_C", "DESERT": "/Game/Vehicles/Z8J/BP_Z8J.BP_Z8J_C"}, "class_names": ["BP_Z8J_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_HEAVY"], "icon": "icons/map/transporthelo.png"}

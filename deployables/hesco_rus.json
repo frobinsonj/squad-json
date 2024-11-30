@@ -1,1 +1,1 @@
-{"name": "HASCO Block", "type": "hesco_single", "icon": "icons/radial/hescosingle.png"}
+{"name": "HASCO Block", "versions": {"DESERT": "/Game/Gameplay/Deployables/Hesco/RGF/BP_Hesco_RGF_Desert.BP_Hesco_RGF_Desert_C", "FOREST": "/Game/Gameplay/Deployables/Hesco/RGF/BP_Hesco_RGF_Woodland.BP_Hesco_RGF_Woodland_C", "SNOW": "/Game/Gameplay/Deployables/Hesco/RGF/BP_Hesco_RGF_Snow.BP_Hesco_RGF_Snow_C"}, "class_names": ["BP_Hesco_RGF_Desert_C", "BP_Hesco_RGF_Woodland_C", "BP_Hesco_RGF_Snow_C"], "type": "hesco_single", "icon": "icons/radial/hescosingle.png"}

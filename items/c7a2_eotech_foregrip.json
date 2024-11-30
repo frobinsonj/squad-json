@@ -1,1 +1,1 @@
-{"name": "C7A2 + ET552 + Foregrip", "category": "rifle", "image": "items/foregrip.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "C7A2 + ET552 + Foregrip", "class_name": "BP_C7A2_Eotech_Foregrip_C", "category": "rifle", "image": "items/foregrip.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, Auto"}}

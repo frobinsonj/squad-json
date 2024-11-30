@@ -1,1 +1,1 @@
-{"name": "M4 + M68", "category": "rifle", "image": "items/m68.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, 3-Round Burst"}}
+{"name": "M4 + M68", "class_name": "BP_M4_Classic_M68_C", "category": "rifle", "image": "items/m68.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, 3-Round Burst"}}

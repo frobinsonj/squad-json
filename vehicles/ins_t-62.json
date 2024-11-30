@@ -1,1 +1,1 @@
-{"name": "T-62", "tickets": 15, "type": "MBT", "tags": ["CLASS_LIGHT"], "icon": "icons/map/tank.png"}
+{"name": "T-62", "versions": {"DESERT": "/Game/Vehicles/T62/BP_T62.BP_T62_C"}, "class_names": ["BP_T62_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_LIGHT"], "icon": "icons/map/tank.png"}

@@ -1,1 +1,1 @@
-{"name": "Sandbags", "category": "shovel", "image": "items/sandbagwall.png", "icon": "icons/item/shovel.png", "info": {"maximum_allowed": "10"}}
+{"name": "Sandbags", "class_name": "BP_Infantry_Sandbag_PLA_C", "category": "shovel", "image": "items/sandbagwall.png", "icon": "icons/item/shovel.png", "info": {"maximum_allowed": "10"}}

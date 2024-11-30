@@ -1,1 +1,1 @@
-{"name": "MT-LB PKT", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "MT-LB PKT", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLB_INS.BP_MTLB_INS_C"}, "class_names": ["BP_MTLB_INS_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

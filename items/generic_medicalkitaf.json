@@ -1,1 +1,1 @@
-{"name": "Medical Kit", "category": "medkit", "image": "items/medibag.png", "icon": "icons/item/medkit.png", "info": null}
+{"name": "Medical Kit", "class_name": "BP_Generic_MedicalKit_CAF_C", "category": "medkit", "image": "items/medibag.png", "icon": "icons/item/medkit.png", "info": null}

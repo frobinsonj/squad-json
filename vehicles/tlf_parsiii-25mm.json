@@ -1,1 +1,1 @@
-{"name": "PARS III 25mm", "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/ifv.png"}
+{"name": "PARS III 25mm", "versions": {"FOREST": "/Game/Vehicles/PARS_III/BP_PARS3.BP_PARS3_C", "DESERT": "/Game/Vehicles/PARS_III/BP_PARS3_Desert.BP_PARS3_Desert_C"}, "class_names": ["BP_PARS3_C", "BP_PARS3_Desert_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

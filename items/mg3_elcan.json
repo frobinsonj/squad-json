@@ -1,1 +1,1 @@
-{"name": "MG3 + Elcan", "category": "machinegun", "image": "items/elcan.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "120", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "1100 RPM", "fire_mode": "Auto"}}
+{"name": "MG3 + Elcan", "class_name": "BP_MG3_Elcan_C", "category": "machinegun", "image": "items/elcan.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "120", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "1100 RPM", "fire_mode": "Auto"}}

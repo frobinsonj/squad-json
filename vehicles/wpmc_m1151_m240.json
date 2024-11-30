@@ -1,1 +1,1 @@
-{"name": "M1151 M240", "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}
+{"name": "M1151 M240", "versions": {"DESERT": "/Game/Vehicles/M1151_WPMC/BP_M1151_M240_WPMC.BP_M1151_M240_WPMC_C", "FOREST": "/Game/Vehicles/M1151_WPMC/BP_M1151_M240_WPMC.BP_M1151_M240_WPMC_C", "SNOW": "/Game/Vehicles/M1151_WPMC/BP_M1151_M240_WPMC.BP_M1151_M240_WPMC_C"}, "class_names": ["BP_M1151_M240_WPMC_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

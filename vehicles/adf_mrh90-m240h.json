@@ -1,1 +1,1 @@
-{"name": "MRH-90", "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}
+{"name": "MRH-90", "versions": {"FOREST": "/Game/Vehicles/MRH90/BP_MRH90_Mag58.BP_MRH90_Mag58_C", "DESERT": "/Game/Vehicles/MRH90/BP_MRH90_Mag58.BP_MRH90_Mag58_C", "SNOW": "/Game/Vehicles/MRH90/BP_MRH90_Mag58.BP_MRH90_Mag58_C"}, "class_names": ["BP_MRH90_Mag58_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}

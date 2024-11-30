@@ -1,1 +1,1 @@
-{"name": "ZU-23-2 AAA Emplacement", "type": "aa_gun", "icon": "icons/radial/antiairgun.png"}
+{"name": "ZU-23-2 AAA Emplacement", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_ZU-23_Emplacement_Ins.BP_ZU-23_Emplacement_Ins_C", "FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_ZU-23_Emplacement.BP_ZU-23_Emplacement_C", "SNOW": "/Game/Gameplay/Deployables/Emplacements/BP_ZU-23_Emplacement.BP_ZU-23_Emplacement_C"}, "class_names": ["BP_ZU-23_Emplacement_Ins_C", "BP_ZU-23_Emplacement_C"], "type": "aa_gun", "icon": "icons/radial/antiairgun.png"}

@@ -1,1 +1,1 @@
-{"name": "Field Binoculars", "category": "binoculars", "image": "items/usbinocs.png", "icon": "icons/item/binoculars.png", "info": null}
+{"name": "Field Binoculars", "class_name": "BP_ADF_Binoculars_C", "category": "binoculars", "image": "items/usbinocs.png", "icon": "icons/item/binoculars.png", "info": null}

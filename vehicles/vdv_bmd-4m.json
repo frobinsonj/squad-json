@@ -1,1 +1,1 @@
-{"name": "BMD-4M", "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}
+{"name": "BMD-4M", "versions": {"DESERT": "/Game/Vehicles/BMD-4M/BP_BMD4M_Desert.BP_BMD4M_Desert_C", "FOREST": "/Game/Vehicles/BMD-4M/BP_BMD4M.BP_BMD4M_C", "SNOW": "/Game/Vehicles/BMD-4M/BP_BMD4M.BP_BMD4M_C"}, "class_names": ["BP_BMD4M_Desert_C", "BP_BMD4M_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

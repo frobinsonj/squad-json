@@ -1,1 +1,1 @@
-{"name": "Razor Wire", "type": "razor_wire", "icon": "icons/radial/razorwire.png"}
+{"name": "Razor Wire", "versions": {"FOREST": "/Game/Gameplay/Deployables/Razorwire/BP_Razorwire_clean_2.BP_Razorwire_clean_2_C"}, "class_names": ["BP_Razorwire_clean_2_C"], "type": "razor_wire", "icon": "icons/radial/razorwire.png"}

@@ -1,1 +1,1 @@
-{"name": "BTR-82A", "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/ifv.png"}
+{"name": "BTR-82A", "versions": {"DESERT": "/Game/Vehicles/BTR80/82A/BP_BTR82A_RUS_Desert.BP_BTR82A_RUS_Desert_C", "FOREST": "/Game/Vehicles/BTR80/82A/BP_BTR82A_RUS.BP_BTR82A_RUS_C", "SNOW": "/Game/Vehicles/BTR80/82A/BP_BTR82A_RUS.BP_BTR82A_RUS_C"}, "class_names": ["BP_BTR82A_RUS_Desert_C", "BP_BTR82A_RUS_C"], "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

@@ -1,1 +1,1 @@
-{"name": "Dirt-Filled Oil Barrels", "type": "wall", "icon": "icons/radial/hescowall.png"}
+{"name": "Dirt-Filled Oil Barrels", "versions": {"DESERT": "/Game/Gameplay/Deployables/Barriers/BP_Oilbarrels.BP_Oilbarrels_C"}, "class_names": ["BP_Oilbarrels_C"], "type": "wall", "icon": "icons/radial/hescowall.png"}

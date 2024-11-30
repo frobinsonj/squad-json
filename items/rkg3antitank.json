@@ -1,1 +1,1 @@
-{"name": "RKG3 Anti-Tank Grenade", "category": "fraggrenade", "image": "items/rkg3.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "5m"}}
+{"name": "RKG3 Anti-Tank Grenade", "class_name": "BP_RKG3Antitank_C", "category": "fraggrenade", "image": "items/rkg3.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "5m"}}

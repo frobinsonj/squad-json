@@ -1,1 +1,1 @@
-{"name": "PARS III Mk19 RWS", "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/apc.png"}
+{"name": "PARS III Mk19 RWS", "versions": {"FOREST": "/Game/Vehicles/PARS_III/BP_PARS3_MK19.BP_PARS3_MK19_C", "DESERT": "/Game/Vehicles/PARS_III/BP_PARS3_MK19_Desert.BP_PARS3_MK19_Desert_C"}, "class_names": ["BP_PARS3_MK19_C", "BP_PARS3_MK19_Desert_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/apc.png"}

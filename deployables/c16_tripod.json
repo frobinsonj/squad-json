@@ -1,1 +1,1 @@
-{"name": "C16 AGL Tripod", "type": "gmg", "icon": "icons/radial/grenademachinegun.png"}
+{"name": "C16 AGL Tripod", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_C16_Tripod.BP_C16_Tripod_C"}, "class_names": ["BP_C16_Tripod_C"], "type": "gmg", "icon": "icons/radial/grenademachinegun.png"}

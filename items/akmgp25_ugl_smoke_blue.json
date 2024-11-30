@@ -1,1 +1,1 @@
-{"name": "GP-25 Smoke Marker Blue", "category": "grenadelauncher", "image": "items/bluesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (Frag) 0m (Smoke)"}}
+{"name": "GP-25 Smoke Marker Blue", "class_name": "BP_AKMGP25_UGL_Smoke_Blue_C", "category": "grenadelauncher", "image": "items/bluesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (Frag) 0m (Smoke)"}}

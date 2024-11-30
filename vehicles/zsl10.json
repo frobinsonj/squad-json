@@ -1,1 +1,1 @@
-{"name": "ZSL10", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc_open_turret.png"}
+{"name": "ZSL10", "versions": {"DESERT": "/Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89_Desert.BP_ZSL10_QJZ-89_Desert_C", "FOREST": "/Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89.BP_ZSL10_QJZ-89_C", "SNOW": "/Game/Vehicles/ZBL08/BP_ZSL10_QJZ-89.BP_ZSL10_QJZ-89_C"}, "class_names": ["BP_ZSL10_QJZ-89_Desert_C", "BP_ZSL10_QJZ-89_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc_open_turret.png"}

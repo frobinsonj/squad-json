@@ -1,1 +1,1 @@
-{"name": "Bayonet2000", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "Bayonet2000", "class_name": "BP_Bayonet2000_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

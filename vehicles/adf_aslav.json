@@ -1,1 +1,1 @@
-{"name": "ASLAV", "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/ifv.png"}
+{"name": "ASLAV", "versions": {"DESERT": "/Game/Vehicles/ASLAV/BP_ASLAV.BP_ASLAV_C", "FOREST": "/Game/Vehicles/ASLAV/BP_ASLAV.BP_ASLAV_C", "SNOW": "/Game/Vehicles/ASLAV/BP_ASLAV.BP_ASLAV_C"}, "class_names": ["BP_ASLAV_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

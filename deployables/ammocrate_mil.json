@@ -1,1 +1,1 @@
-{"name": "Ammo Crate", "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}
+{"name": "Ammo Crate", "versions": {"FOREST": "/Game/Gameplay/Deployables/AmmoCrates/BP_Ammocrate_IMF.BP_Ammocrate_IMF_C"}, "class_names": ["BP_Ammocrate_IMF_C"], "type": "ammo_crate", "icon": "icons/radial/ammocrate.png"}

@@ -1,1 +1,1 @@
-{"name": "Cobra II MG3", "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}
+{"name": "Cobra II MG3", "versions": {"FOREST": "/Game/Vehicles/Cobra_II/BP_Cobra2_MG3.BP_Cobra2_MG3_C", "DESERT": "/Game/Vehicles/Cobra_II/BP_Cobra2_MG3_Desert.BP_Cobra2_MG3_Desert_C"}, "class_names": ["BP_Cobra2_MG3_C", "BP_Cobra2_MG3_Desert_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}

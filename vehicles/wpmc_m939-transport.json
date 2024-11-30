@@ -1,1 +1,1 @@
-{"name": "M939 Transport", "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transport.png"}
+{"name": "M939 Transport", "versions": {"DESERT": "/Game/Vehicles/M939Truck_WPMC/BP_WPMC_Util_Black.BP_WPMC_Util_Black_C", "FOREST": "/Game/Vehicles/M939Truck_WPMC/BP_WPMC_Util_Black.BP_WPMC_Util_Black_C", "SNOW": "/Game/Vehicles/M939Truck_WPMC/BP_WPMC_Util_Black.BP_WPMC_Util_Black_C"}, "class_names": ["BP_WPMC_Util_Black_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_transport.png"}

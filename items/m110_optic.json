@@ -1,1 +1,1 @@
-{"name": "M110 SASS", "category": "dmr", "image": "items/m110.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi"}}
+{"name": "M110 SASS", "class_name": "BP_M110_Optic_C", "category": "dmr", "image": "items/m110.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi"}}

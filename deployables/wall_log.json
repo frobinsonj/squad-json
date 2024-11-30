@@ -1,1 +1,1 @@
-{"name": "Log Wall", "type": "wall", "icon": "icons/radial/logwall.png"}
+{"name": "Log Wall", "versions": {"FOREST": "/Game/Gameplay/Deployables/Barriers/BP_LogWall.BP_LogWall_C"}, "class_names": ["BP_LogWall_C"], "type": "wall", "icon": "icons/radial/logwall.png"}

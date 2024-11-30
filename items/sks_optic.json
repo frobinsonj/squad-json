@@ -1,1 +1,1 @@
-{"name": "SKS + PU", "category": "rifle", "image": "items/pu.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x39mm", "fire_mode": "Semi"}}
+{"name": "SKS + PU", "class_name": "BP_SKS_Optic_C", "category": "rifle", "image": "items/pu.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x39mm", "fire_mode": "Semi"}}

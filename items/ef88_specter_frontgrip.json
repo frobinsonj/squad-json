@@ -1,1 +1,1 @@
-{"name": "EF88 + Specter", "category": "rifle", "image": "items/ef88.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "750 RPM", "fire_mode": "Semi, Full Auto", "zeroing": "200m"}}
+{"name": "EF88 + Specter", "class_name": "BP_EF88_Specter_Frontgrip_C", "category": "rifle", "image": "items/ef88.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "750 RPM", "fire_mode": "Semi, Full Auto", "zeroing": "200m"}}

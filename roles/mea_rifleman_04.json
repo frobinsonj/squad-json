@@ -1,0 +1,1 @@
+{"versions": {"DESERT": "/Game/Blueprints/Soldiers/MEA/BP_Soldier_MEA_Rifleman.BP_Soldier_MEA_Rifleman_C"}, "class_names": ["BP_Soldier_MEA_Rifleman_C"], "type": "rifleman", "icon": "icons/role/rifleman.png", "tags": ["RIFLEMAN"], "items": ["g3a3_optic", "g3bayonet", "f1frag", "m18smoke_parent", "generic_fielddressing", "entrenchingtool", "infantry_ammobag_mea"]}

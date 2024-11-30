@@ -1,1 +1,1 @@
-{"name": "M1937 Mortar", "type": "mortar", "icon": "icons/radial/mortars.png"}
+{"name": "M1937 Mortar", "versions": {"FOREST": "/Game/Gameplay/Deployables/Emplacements/BP_m1937mortar_Deployable.BP_m1937mortar_Deployable_C"}, "class_names": ["BP_m1937mortar_Deployable_C"], "type": "mortar", "icon": "icons/radial/mortars.png"}

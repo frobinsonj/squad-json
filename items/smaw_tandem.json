@@ -1,1 +1,1 @@
-{"name": "MK153 SMAW HE Anti-Armor", "category": "lat", "image": "items/tandem.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}
+{"name": "MK153 SMAW HE Anti-Armor", "class_name": "BP_SMAW_Tandem_C", "category": "lat", "image": "items/tandem.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm Tandem HEAT", "guidance": "Unguided", "explosion_radius": "8m", "penetration_capability": "900mm RHA"}}

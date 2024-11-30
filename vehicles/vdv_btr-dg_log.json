@@ -1,1 +1,1 @@
-{"name": "BTR-DG Logistics", "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc_logistics.png"}
+{"name": "BTR-DG Logistics", "versions": {"FOREST": "/Game/Vehicles/BTR-D/BP_BTR-DG_Logistics.BP_BTR-DG_Logistics_C", "DESERT": "/Game/Vehicles/BTR-D/BP_BTR-DG_Logistics_Desert.BP_BTR-DG_Logistics_Desert_C"}, "class_names": ["BP_BTR-DG_Logistics_C", "BP_BTR-DG_Logistics_Desert_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc_logistics.png"}

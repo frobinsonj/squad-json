@@ -1,1 +1,1 @@
-{"name": "M320 GLM Smoke Marker White", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m"}}
+{"name": "M320 GLM Smoke Marker White", "class_name": "BP_M320_Smoke_White_C", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m"}}

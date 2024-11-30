@@ -1,1 +1,1 @@
-{"name": "RDG2 Smoke Grenade Black", "category": "smokegrenade", "image": "items/black.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "RDG2 Smoke Grenade Black", "class_name": "BP_RDG2Smoke_Black_C", "category": "smokegrenade", "image": "items/black.png", "icon": "icons/item/smokegrenade.png", "info": null}

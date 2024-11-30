@@ -1,1 +1,1 @@
-{"name": "Tigr-M RWS Kord", "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}
+{"name": "Tigr-M RWS Kord", "versions": {"DESERT": "/Game/Vehicles/Tigr/BP_Tigr_RWS_Desert.BP_Tigr_RWS_Desert_C", "FOREST": "/Game/Vehicles/Tigr/BP_Tigr_RWS.BP_Tigr_RWS_C", "SNOW": "/Game/Vehicles/Tigr/BP_Tigr_RWS.BP_Tigr_RWS_C"}, "class_names": ["BP_Tigr_RWS_Desert_C", "BP_Tigr_RWS_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep_turret.png"}

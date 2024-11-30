@@ -1,1 +1,1 @@
-{"name": "Technical SPG-9", "tickets": 5, "type": "TD", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_antitank.png"}
+{"name": "Technical SPG-9", "versions": {"DESERT": "/Game/Vehicles/Technical/BP_Technical_SPG9_INS_Armoured.BP_Technical_SPG9_INS_Armoured_C"}, "class_names": ["BP_Technical2Seater_White_SPG9_C", "BP_Technical_SPG9_INS_Armoured_C"], "tickets": 5, "type": "TD", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_antitank.png"}

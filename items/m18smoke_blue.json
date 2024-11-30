@@ -1,1 +1,1 @@
-{"name": "M18 Smoke Grenade Blue", "category": "smokegrenade", "image": "items/blue.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "M18 Smoke Grenade Blue", "class_name": "BP_M18Smoke_Blue_C", "category": "smokegrenade", "image": "items/blue.png", "icon": "icons/item/smokegrenade.png", "info": null}

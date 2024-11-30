@@ -1,1 +1,1 @@
-{"name": "BTR-80", "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc.png"}
+{"name": "BTR-80", "versions": {"FOREST": "/Game/Vehicles/BTR80/BP_BTR80_Militia.BP_BTR80_Militia_C"}, "class_names": ["BP_BTR80_Militia_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/apc.png"}

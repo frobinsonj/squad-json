@@ -1,1 +1,1 @@
-{"type": "raider", "icon": "icons/role/raider.png", "tags": [], "items": ["sar109t_hna", "sor9", "g3bayonet", "m67frag", "m18smoke_parent", "generic_fielddressing", "entrenchingtool", "us_binoculars"]}
+{"versions": {"DESERT": "/Game/Blueprints/Soldiers/TLF/BP_Soldier_TLF_Gendarme_01.BP_Soldier_TLF_Gendarme_01_C"}, "class_names": ["BP_Soldier_TLF_Gendarme_01_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": [], "items": ["sar109t_hna", "sor9", "g3bayonet", "m67frag", "m18smoke_parent", "generic_fielddressing", "entrenchingtool", "us_binoculars"]}

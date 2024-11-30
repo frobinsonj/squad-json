@@ -1,1 +1,1 @@
-{"name": "HASCO Bunker", "type": "bunker", "icon": "icons/radial/bunker.png"}
+{"name": "HASCO Bunker", "versions": {"FOREST": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_smallbunker_2_woodland.BP_smallbunker_2_woodland_C", "DESERT": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_smallbunker_Desert.BP_smallbunker_Desert_C", "SNOW": "/Game/Gameplay/Deployables/Bunkers/RGF/BP_smallbunker_Snow.BP_smallbunker_Snow_C"}, "class_names": ["BP_smallbunker_2_woodland_C", "BP_smallbunker_Desert_C", "BP_smallbunker_Snow_C"], "type": "bunker", "icon": "icons/radial/bunker.png"}

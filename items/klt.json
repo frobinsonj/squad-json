@@ -1,0 +1,1 @@
+{"name": "KLT", "class_name": "BP_KLT_C", "category": "rifle", "image": "items/akms.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Semi, Auto"}}

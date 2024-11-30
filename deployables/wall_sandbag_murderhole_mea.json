@@ -1,1 +1,1 @@
-{"name": "Pillbox Sandbag Line", "type": "wall_murder_hole", "icon": "icons/radial/sandbagsstraightfiringhole.png"}
+{"name": "Pillbox Sandbag Line", "versions": {"DESERT": "/Game/Gameplay/Deployables/Sandbags/BP_I_Sandbag_murder_hole_MEA.BP_I_Sandbag_murder_hole_MEA_C"}, "class_names": ["BP_I_Sandbag_murder_hole_MEA_C"], "type": "wall_murder_hole", "icon": "icons/radial/sandbagsstraightfiringhole.png"}

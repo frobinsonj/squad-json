@@ -1,1 +1,1 @@
-{"name": "LUVW Transport", "tickets": 5, "type": "TRAN", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}
+{"name": "LUVW Transport", "versions": {"DESERT": "/Game/Vehicles/LUVW/BP_LUVW_Desert.BP_LUVW_Desert_C", "FOREST": "/Game/Vehicles/LUVW/BP_LUVW.BP_LUVW_C", "SNOW": "/Game/Vehicles/LUVW/BP_LUVW.BP_LUVW_C"}, "class_names": ["BP_LUVW_Desert_C", "BP_LUVW_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}

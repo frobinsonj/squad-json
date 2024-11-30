@@ -1,1 +1,1 @@
-{"name": "SKS Bayonet", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "SKS Bayonet", "class_name": "BP_SKS_Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}

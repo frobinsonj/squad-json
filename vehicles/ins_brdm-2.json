@@ -1,1 +1,1 @@
-{"name": "BRDM-2", "tickets": 5, "type": "LTV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/jeep_turret.png"}
+{"name": "BRDM-2", "versions": {"DESERT": "/Game/Vehicles/BRDM-2/BP_BRDM-2_Insurgents.BP_BRDM-2_Insurgents_C"}, "class_names": ["BP_BRDM-2_Insurgents_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/jeep_turret.png"}

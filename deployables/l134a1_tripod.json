@@ -1,1 +1,1 @@
-{"name": "L134A1 AGL Tripod", "type": "gmg", "icon": "icons/radial/grenademachinegun.png"}
+{"name": "L134A1 AGL Tripod", "versions": {"DESERT": "/Game/Gameplay/Deployables/Emplacements/BP_L134A1_Tripod.BP_L134A1_Tripod_C"}, "class_names": ["BP_L134A1_Tripod_C"], "type": "gmg", "icon": "icons/radial/grenademachinegun.png"}

@@ -1,1 +1,1 @@
-{"name": "M113A2T M121", "tickets": 5, "type": "SPA", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedapc_artillery.png"}
+{"name": "M113A2T M121", "versions": {"FOREST": "/Game/Vehicles/M1064A2_TLF/BP_M1064_M121_TLF.BP_M1064_M121_TLF_C", "DESERT": "/Game/Vehicles/M1064A2_TLF/BP_M1064_M121_TLF_Desert.BP_M1064_M121_TLF_Desert_C"}, "class_names": ["BP_M1064_M121_TLF_C", "BP_M1064_M121_TLF_Desert_C"], "tickets": 5, "type": "SPA", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedapc_artillery.png"}

@@ -1,1 +1,1 @@
-{"name": "Mosin Nagant M1891/30", "category": "rifle", "image": "items/mosinm1891.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "5+1", "caliber": "7.62\u00d754mmR", "fire_mode": "Bolt-Action"}}
+{"name": "Mosin Nagant M1891/30", "class_name": "BP_Mosin_M1891_C", "category": "rifle", "image": "items/mosinm1891.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "5+1", "caliber": "7.62\u00d754mmR", "fire_mode": "Bolt-Action"}}

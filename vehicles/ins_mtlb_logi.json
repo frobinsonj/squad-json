@@ -1,1 +1,1 @@
-{"name": "MT-LB Logistics", "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc_logistics.png"}
+{"name": "MT-LB Logistics", "versions": {"DESERT": "/Game/Vehicles/MTLB/BP_MTLB_LOGI_INS.BP_MTLB_LOGI_INS_C", "FOREST": "/Game/Vehicles/MTLB/BP_MTLB_LOGI_INS.BP_MTLB_LOGI_INS_C", "SNOW": "/Game/Vehicles/MTLB/BP_MTLB_LOGI_INS.BP_MTLB_LOGI_INS_C"}, "class_names": ["BP_MTLB_LOGI_INS_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc_logistics.png"}

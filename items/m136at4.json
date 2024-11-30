@@ -1,1 +1,1 @@
-{"name": "M136 AT-4 CS High Explosive Anti-Tank", "category": "lat", "image": "items/at4.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm High Explosive Anti-Tank", "guidance": "Unguided", "explosion_radius": "7.5m", "penetration_capability": "420mm RHA"}}
+{"name": "M136 AT-4 CS High Explosive Anti-Tank", "class_name": "BP_M136AT4_C", "category": "lat", "image": "items/at4.png", "icon": "icons/item/lat.png", "info": {"warhead": "84mm High Explosive Anti-Tank", "guidance": "Unguided", "explosion_radius": "7.5m", "penetration_capability": "420mm RHA"}}

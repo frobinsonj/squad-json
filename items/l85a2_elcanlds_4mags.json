@@ -1,1 +1,1 @@
-{"name": "L85A2 + LDS", "category": "rifle", "image": "items/elcanlds.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "L85A2 + LDS", "class_name": "BP_L85A2_ElcanLDS_4Mags_C", "category": "rifle", "image": "items/elcanlds.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

@@ -1,1 +1,1 @@
-{"name": "RGO Fragmentation Grenade", "category": "fraggrenade", "image": "items/rgo.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "RGO Fragmentation Grenade", "class_name": "BP_RGOFrag_Green_C", "category": "fraggrenade", "image": "items/rgo.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}

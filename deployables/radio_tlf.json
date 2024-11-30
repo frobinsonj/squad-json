@@ -1,1 +1,1 @@
-{"name": "Radio", "type": "radio", "icon": "icons/radial/radiohub.png"}
+{"name": "Radio", "versions": {"FOREST": "/Game/Gameplay/Deployables/Radios/TLF/BP_FOBRadio_TLF.BP_FOBRadio_TLF_C"}, "class_names": ["BP_FOBRadio_TLF_C"], "type": "radio", "icon": "icons/radial/radiohub.png"}

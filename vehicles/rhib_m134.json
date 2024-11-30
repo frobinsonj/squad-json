@@ -1,1 +1,1 @@
-{"name": "RHIB M134", "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}
+{"name": "RHIB M134", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_US_M134.BP_RHIB_US_M134_C"}, "class_names": ["BP_RHIB_US_M134_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/boaopenturret.png"}

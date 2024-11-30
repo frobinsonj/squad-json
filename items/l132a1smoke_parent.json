@@ -1,1 +1,1 @@
-{"name": "L132A1 Smoke Grenade", "category": "smokegrenade", "image": "items/smoke.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "L132A1 Smoke Grenade", "class_name": "BP_L132A1Smoke_Parent_C", "category": "smokegrenade", "image": "items/smoke.png", "icon": "icons/item/smokegrenade.png", "info": null}

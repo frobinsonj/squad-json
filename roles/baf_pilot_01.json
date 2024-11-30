@@ -1,1 +1,1 @@
-{"type": "pilot", "icon": "icons/role/pilot.png", "tags": ["SUPPORT"], "items": ["l22a2_foregrip", "l131a1", "sa80bayonet", "l70a1smoke_red", "generic_fielddressing", "repairtool", "us_binoculars"]}
+{"versions": {"FOREST": "/Game/Blueprints/Soldiers/GB/BP_Soldier_BAF_Pilot.BP_Soldier_BAF_Pilot_C"}, "class_names": ["BP_Soldier_BAF_Pilot_C"], "type": "pilot", "icon": "icons/role/pilot.png", "tags": ["SUPPORT"], "items": ["l22a2_foregrip", "l131a1", "sa80bayonet", "l70a1smoke_red", "generic_fielddressing", "repairtool", "us_binoculars"]}

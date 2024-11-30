@@ -1,1 +1,1 @@
-{"name": "M320 GLM HEDP", "category": "grenadelauncher", "image": "items/he.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}
+{"name": "M320 GLM HEDP", "class_name": "BP_M320_HE_C", "category": "grenadelauncher", "image": "items/he.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m", "explosion_radius": "15m (HEDP) 0m (Smoke)", "penetration_capability": "10mm RHA"}}

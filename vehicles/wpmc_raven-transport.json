@@ -1,1 +1,1 @@
-{"name": "Raven Transport", "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}
+{"name": "Raven Transport", "versions": {"DESERT": "/Game/Vehicles/CH146_Raven_WPMC/BP_CH146_Raven.BP_CH146_Raven_C", "FOREST": "/Game/Vehicles/CH146_Raven_WPMC/BP_CH146_Raven.BP_CH146_Raven_C", "SNOW": "/Game/Vehicles/CH146_Raven_WPMC/BP_CH146_Raven.BP_CH146_Raven_C"}, "class_names": ["BP_CH146_Raven_C"], "tickets": 5, "type": "UH", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/transporthelo.png"}

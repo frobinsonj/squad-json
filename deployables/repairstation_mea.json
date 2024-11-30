@@ -1,1 +1,1 @@
-{"name": "Repair Station", "type": "repair_station", "icon": "icons/radial/repairdepot.png"}
+{"name": "Repair Station", "versions": {"DESERT": "/Game/Gameplay/Deployables/RepairStations/MEA/BP_vehicle_repair_MEA.BP_vehicle_repair_MEA_C"}, "class_names": ["BP_vehicle_repair_MEA_C"], "type": "repair_station", "icon": "icons/radial/repairdepot.png"}

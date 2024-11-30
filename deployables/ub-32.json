@@ -1,1 +1,1 @@
-{"name": "UB-32 Rocket Artillery", "type": "rocket_artillery", "icon": "icons/radial/ub32rockets.png"}
+{"name": "UB-32 Rocket Artillery", "versions": {"FOREST": "/Game/Vehicles/Emplaced_UB32_RocketArtillery/BP_EmplacedUB32_Deployable.BP_EmplacedUB32_Deployable_C"}, "class_names": ["BP_EmplacedUB32_Deployable_C"], "type": "rocket_artillery", "icon": "icons/radial/ub32rockets.png"}

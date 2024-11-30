@@ -1,1 +1,1 @@
-{"name": "M203 Smoke Marker White", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m"}}
+{"name": "M203 Smoke Marker White", "class_name": "BP_M16A4M203_M150_UGL_Smoke_C", "category": "grenadelauncher", "image": "items/whitesmoke.png", "icon": "icons/item/grenadelauncher.png", "info": {"caliber": "40mm", "arming_distance": "10m"}}

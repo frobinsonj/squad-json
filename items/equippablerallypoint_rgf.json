@@ -1,1 +1,1 @@
-{"name": "Rally Point", "category": "rallypoint", "image": "items/rallypoint.png", "icon": "items/rallypoint.png", "info": null}
+{"name": "Rally Point", "class_name": "BP_EquippableRallyPoint_RGF_C", "category": "rallypoint", "image": "items/rallypoint.png", "icon": "items/rallypoint.png", "info": null}

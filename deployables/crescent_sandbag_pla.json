@@ -1,1 +1,1 @@
-{"name": "Sandbag Crescent", "type": "wall_crescent", "icon": "icons/radial/sandbagscorner.png"}
+{"name": "Sandbag Crescent", "versions": {"FOREST": "/Game/Gameplay/Deployables/Sandbags/BP_SandBagWall_Crescent_PLA.BP_SandBagWall_Crescent_PLA_C"}, "class_names": ["BP_SandBagWall_Crescent_PLA_C"], "type": "wall_crescent", "icon": "icons/radial/sandbagscorner.png"}

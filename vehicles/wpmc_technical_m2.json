@@ -1,1 +1,1 @@
-{"name": "Technical M2", "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}
+{"name": "Technical M2", "versions": {"DESERT": "/Game/Vehicles/Technical2Seater_WPMC/BP_Technical2Seater_M2_Tan.BP_Technical2Seater_M2_Tan_C", "SNOW": "/Game/Vehicles/Technical2Seater_WPMC/BP_Technical2Seater_M2_Tan.BP_Technical2Seater_M2_Tan_C"}, "class_names": ["BP_Technical2Seater_M2_Black_C", "BP_Technical2Seater_M2_Grey_C", "BP_Technical2Seater_M2_Tan_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

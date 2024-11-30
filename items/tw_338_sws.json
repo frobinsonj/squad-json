@@ -1,1 +1,1 @@
-{"name": "TW 338 SWS", "category": "dmr", "image": "items/sws.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "5", "caliber": ".338 Lapua Magnum", "fire_mode": "Bolt-Action"}}
+{"name": "TW 338 SWS", "class_name": "BP_TW_338_SWS_C", "category": "dmr", "image": "items/sws.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "5", "caliber": ".338 Lapua Magnum", "fire_mode": "Bolt-Action"}}

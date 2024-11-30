@@ -1,1 +1,1 @@
-{"name": "HASCO Bunker", "type": "bunker", "icon": "icons/radial/bunker.png"}
+{"name": "HASCO Bunker", "versions": {"DESERT": "/Game/Gameplay/Deployables/Bunkers/MEA/BP_smallbunker_MEA.BP_smallbunker_MEA_C"}, "class_names": ["BP_smallbunker_MEA_C"], "type": "bunker", "icon": "icons/radial/bunker.png"}

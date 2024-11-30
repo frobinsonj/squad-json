@@ -1,1 +1,1 @@
-{"name": "AAVP-7A1", "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}
+{"name": "AAVP-7A1", "versions": {"DESERT": "/Game/Vehicles/AAVP7A1/BP_AAVP7A1.BP_AAVP7A1_C", "FOREST": "/Game/Vehicles/AAVP7A1/BP_AAVP7A1_Woodland.BP_AAVP7A1_Woodland_C", "SNOW": "/Game/Vehicles/AAVP7A1/BP_AAVP7A1_Woodland.BP_AAVP7A1_Woodland_C"}, "class_names": ["BP_AAVP7A1_C", "BP_AAVP7A1_Woodland_C"], "tickets": 10, "type": "APC", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

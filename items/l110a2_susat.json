@@ -1,1 +1,1 @@
-{"name": "L110A2 Minimi + SUSAT", "category": "machinegun", "image": "items/susat.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.56x45mm NATO Red Tracer", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}
+{"name": "L110A2 Minimi + SUSAT", "class_name": "BP_L110A2_SUSAT_C", "category": "machinegun", "image": "items/susat.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "5.56x45mm NATO Red Tracer", "rate_of_fire": "850 RPM", "fire_mode": "Auto"}}

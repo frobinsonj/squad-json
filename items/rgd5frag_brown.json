@@ -1,1 +1,1 @@
-{"name": "RGD5 Fragmentation Grenade", "category": "fraggrenade", "image": "items/rgd5.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "RGD5 Fragmentation Grenade", "class_name": "BP_RGD5Frag_Brown_C", "category": "fraggrenade", "image": "items/rgd5.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}

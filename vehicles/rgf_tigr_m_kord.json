@@ -1,1 +1,1 @@
-{"name": "Tigr-M Kord", "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}
+{"name": "Tigr-M Kord", "versions": {"DESERT": "/Game/Vehicles/Tigr/BP_Tigr_Desert.BP_Tigr_Desert_C", "FOREST": "/Game/Vehicles/Tigr/BP_Tigr.BP_Tigr_C", "SNOW": "/Game/Vehicles/Tigr/BP_Tigr.BP_Tigr_C"}, "class_names": ["BP_Tigr_Desert_C", "BP_Tigr_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}

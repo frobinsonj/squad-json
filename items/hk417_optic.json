@@ -1,1 +1,1 @@
-{"name": "HK417", "category": "dmr", "image": "items/hk417.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi", "zeroing": "6x 100m-1000m"}}
+{"name": "HK417", "class_name": "BP_HK417_Optic_C", "category": "dmr", "image": "items/hk417.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "fire_mode": "Semi", "zeroing": "6x 100m-1000m"}}

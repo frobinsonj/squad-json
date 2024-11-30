@@ -1,1 +1,1 @@
-{"name": "Cell Phone Detonator", "category": "detonator", "image": "items/phonedetonator.png", "icon": "icons/item/detonator.png", "info": null}
+{"name": "Cell Phone Detonator", "class_name": "BP_Phone_Detonator_C", "category": "detonator", "image": "items/phonedetonator.png", "icon": "icons/item/detonator.png", "info": null}

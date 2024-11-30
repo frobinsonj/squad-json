@@ -1,1 +1,1 @@
-{"name": "Engineer Entrenching Tool", "category": "shovel", "image": "items/entrenchingtool.png", "icon": "icons/item/shovel.png", "info": null}
+{"name": "Engineer Entrenching Tool", "class_name": "BP_EntrenchingTool_Engineer_C", "category": "shovel", "image": "items/entrenchingtool.png", "icon": "icons/item/shovel.png", "info": null}

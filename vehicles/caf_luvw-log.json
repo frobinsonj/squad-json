@@ -1,1 +1,1 @@
-{"name": "LUVW Logistics", "tickets": 1, "type": "LOGI", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_logistics.png"}
+{"name": "LUVW Logistics", "versions": {"DESERT": "/Game/Vehicles/LUVW/BP_LUVW_Logi_Desert.BP_LUVW_Logi_Desert_C", "FOREST": "/Game/Vehicles/LUVW/BP_LUVW_Logi.BP_LUVW_Logi_C", "SNOW": "/Game/Vehicles/LUVW/BP_LUVW_Logi.BP_LUVW_Logi_C"}, "class_names": ["BP_LUVW_Logi_Desert_C", "BP_LUVW_Logi_C"], "tickets": 1, "type": "LOGI", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_logistics.png"}

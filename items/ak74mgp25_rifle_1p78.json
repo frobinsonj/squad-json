@@ -1,1 +1,1 @@
-{"name": "AK-74M GP-25 + 1P78", "category": "rifle", "image": "items/1p78.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto", "zeroing": "100m-1000m"}}
+{"name": "AK-74M GP-25 + 1P78", "class_name": "BP_AK74MGP25_Rifle_1P78_C", "category": "rifle", "image": "items/1p78.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.45x39mm", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto", "zeroing": "100m-1000m"}}

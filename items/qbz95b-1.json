@@ -1,1 +1,1 @@
-{"name": "QBZ95B-1", "category": "rifle", "image": "items/qbz95b-1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.8x42mm ", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}
+{"name": "QBZ95B-1", "class_name": "BP_QBZ95B-1_C", "category": "rifle", "image": "items/qbz95b-1.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.8x42mm ", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

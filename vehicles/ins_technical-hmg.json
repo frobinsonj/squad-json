@@ -1,1 +1,1 @@
-{"name": "Technical HMG", "tickets": 5, "type": "LTV", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}
+{"name": "Technical HMG", "versions": {"DESERT": "/Game/Vehicles/Technical2Seater/BP_Technical2Seater_White_M2.BP_Technical2Seater_White_M2_C"}, "class_names": ["BP_Technical_Dshk_INS_Armoured_C", "BP_Technical2Seater_White_Dshk_C", "BP_Technical2Seater_White_M2_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep.png"}

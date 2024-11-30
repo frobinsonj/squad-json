@@ -1,1 +1,1 @@
-{"name": "PM Makarov", "category": "pistol", "image": "items/makarov.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "8+1", "caliber": "9\u00d718mm Makarov", "fire_mode": "Semi", "zeroing": "25m"}}
+{"name": "PM Makarov", "class_name": "BP_Makarov_C", "category": "pistol", "image": "items/makarov.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "8+1", "caliber": "9\u00d718mm Makarov", "fire_mode": "Semi", "zeroing": "25m"}}

@@ -1,1 +1,1 @@
-{"name": "M-ATV M240", "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}
+{"name": "M-ATV M240", "versions": {"DESERT": "/Game/Vehicles/MATV/BP_MATV_M240.BP_MATV_M240_C", "FOREST": "/Game/Vehicles/MATV/BP_MATV_M240_Woodland.BP_MATV_M240_Woodland_C", "SNOW": "/Game/Vehicles/MATV/BP_MATV_M240_Woodland.BP_MATV_M240_Woodland_C"}, "class_names": ["BP_MATV_M240_C", "BP_MATV_M240_Woodland_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT", "LOW_CALIBER"], "icon": "icons/map/jeep.png"}

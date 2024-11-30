@@ -1,1 +1,1 @@
-{"name": "M112 C4 Explosive (30s Fuze)", "category": "explosives", "image": "items/remote.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}
+{"name": "M112 C4 Explosive (30s Fuze)", "class_name": "BP_M112_C4Explosive_Timed_NoQuadBikes_C", "category": "explosives", "image": "items/remote.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}
