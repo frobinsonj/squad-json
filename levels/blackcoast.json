@@ -1,1 +1,1 @@
-{"name": "Black Coast", "country": "Russia", "minimap": "minimaps/blackcoast.png", "thumbnail": "levels/thumbnails/blackcoast.png", "image": "levels/blackcoast.png"}
+{"name": "Black Coast", "description": "Nestled between the Caucasus foothills and the sparkling waters of the Black Sea, satellite images have indicated new activity around a Cold War submarine base.", "biome": "FOREST", "theater": "EUROPE_E", "country": "Russia", "minimap": "minimaps/blackcoast.png", "thumbnail": "levels/thumbnails/blackcoast.png", "image": "levels/blackcoast.png"}

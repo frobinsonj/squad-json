@@ -1,0 +1,1 @@
+{"name": "Light Transport", "versions": {"FOREST": "/Game/Vehicles/CPV/BP_CPV_Transport_CRF.BP_CPV_Transport_CRF_C"}, "class_names": ["BP_Technical4Seater_Transport_CRF_C", "BP_LUVW_CRF_C", "BP_CPV_Transport_CRF_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}

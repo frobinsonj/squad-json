@@ -1,0 +1,1 @@
+{"name": "BRDM-2 UB-32", "versions": {"DESERT": "/Game/Vehicles/BRDM-2/BP_BRDM-2_GFI.BP_BRDM-2_GFI_C"}, "class_names": ["BP_BRDM-2_GFI_C"], "tickets": 10, "type": "RSV", "tags": ["CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/jeep_turret.png"}

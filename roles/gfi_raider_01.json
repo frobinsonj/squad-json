@@ -1,0 +1,1 @@
+{"name": "RAIDER", "details": "Equipped with an SMG and grenades, this role is perfect for close quarters combat and causing chaos.", "versions": {"DESERT": "/Game/Blueprints/Soldiers/GFI/BP_Soldier_GFI_Engineer.BP_Soldier_GFI_Engineer_C"}, "class_names": ["BP_Soldier_GFI_Engineer_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": ["RAIDER"]}

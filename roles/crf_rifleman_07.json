@@ -1,0 +1,1 @@
+{"name": "RIFLEMAN", "details": "Equipped with a standard loadout, this role is perfect for general purpose combat.", "versions": {"FOREST": "/Game/Blueprints/Soldiers/CRF/BP_Soldiers_CRF_Rifleman_07.BP_Soldiers_CRF_Rifleman_07_C"}, "class_names": ["BP_Soldiers_CRF_Rifleman_07_C"], "type": "rifleman", "icon": "icons/role/rifleman.png", "tags": ["RIFLEMAN"]}

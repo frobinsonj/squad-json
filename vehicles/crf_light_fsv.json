@@ -1,0 +1,1 @@
+{"name": "Light FSV", "versions": {"FOREST": "/Game/Vehicles/M1151/BP_M1151_Light_Woodland_CRF.BP_M1151_Light_Woodland_CRF_C"}, "class_names": ["BP_Technical2Seater_Camo_M2_CRF_C", "BP_M1151_Light_Woodland_CRF_C"], "tickets": 5, "type": "LTV", "tags": ["CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

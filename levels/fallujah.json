@@ -1,1 +1,1 @@
-{"name": "Fallujah", "country": "Iraq", "minimap": "minimaps/fallujah.png", "thumbnail": "levels/thumbnails/fallujah.png", "image": "levels/fallujah.png"}
+{"name": "Fallujah", "description": "", "biome": "DESERT", "theater": "ASIA_W", "country": "Iraq", "minimap": "minimaps/fallujah.png", "thumbnail": "levels/thumbnails/fallujah.png", "image": "levels/fallujah.png"}

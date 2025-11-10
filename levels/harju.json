@@ -1,1 +1,1 @@
-{"name": "Harju", "country": "Finland", "minimap": "minimaps/harju.png", "thumbnail": "levels/thumbnails/harju.png", "image": "levels/harju.png"}
+{"name": "Harju", "description": "In retaliation for the Battle of Narva, opposition forces have begun raiding towns on the southern coastline of Finland. A NATO carrier group is deploying to back local defense forces to repel the invasion.", "biome": "FOREST", "theater": "EUROPE_N", "country": "Finland", "minimap": "minimaps/harju.png", "thumbnail": "levels/thumbnails/harju.png", "image": "levels/harju.png"}

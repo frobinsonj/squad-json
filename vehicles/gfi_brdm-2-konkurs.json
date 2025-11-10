@@ -1,0 +1,1 @@
+{"name": "BRDM-2 Spandrel", "versions": {"DESERT": "/Game/Vehicles/BRDM-2/BP_BRDM-2_GFI_Spandrel.BP_BRDM-2_GFI_Spandrel_C"}, "class_names": ["BP_BRDM-2_GFI_Spandrel_C"], "tickets": 10, "type": "TD", "tags": ["ATGM", "CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/jeep_antitank.png"}

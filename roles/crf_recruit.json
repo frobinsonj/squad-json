@@ -1,0 +1,1 @@
+{"name": "RECRUIT", "details": "A stripped down role capable of only self-defence.", "versions": {"FOREST": "/Game/Blueprints/Soldiers/CRF/BP_Soldiers_CRF_Recruit_01.BP_Soldiers_CRF_Recruit_01_C"}, "class_names": ["BP_Soldiers_CRF_Recruit_01_C"], "type": "recruit", "icon": "icons/role/recruit.png", "tags": ["RECRUIT"]}
