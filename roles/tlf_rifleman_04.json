@@ -1,0 +1,1 @@
+{"name": "RIFLEMAN", "details": "Equipped with a standard loadout, this role is perfect for general purpose combat.", "versions": {"DESERT": "/Game/Blueprints/Soldiers/TLF/BP_Soldier_TLF_Rifleman_03.BP_Soldier_TLF_Rifleman_03_C"}, "class_names": ["BP_Soldier_TLF_Rifleman_03_C"], "type": "rifleman", "icon": "icons/role/rifleman_scoped.png", "tags": ["RIFLEMAN", "SCOPE"]}

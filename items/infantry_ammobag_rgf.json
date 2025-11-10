@@ -1,1 +1,1 @@
-{"name": "Ammo Bag", "class_name": "BP_Infantry_Ammobag_RGF_C", "category": "resupply", "image": "items/ammobag.png", "icon": "icons/item/resupply.png", "info": {"maximum_allowed": "1"}}
+{"name": "Ammo Bag", "equip_duration": 0.6000000238418579, "unequip_duration": 0.8169999718666077, "config": null, "image": "items/ammobag.png", "info": {"maximum_allowed": "1"}}

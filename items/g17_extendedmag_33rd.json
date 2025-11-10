@@ -1,0 +1,1 @@
+{"name": "G17 + Extended Mag", "equip_duration": 0.44999998807907104, "unequip_duration": 0.4000000059604645, "config": {"rounds_per_mag": 33, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/extendedmag.png", "info": {"magazine_capacity": "33+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

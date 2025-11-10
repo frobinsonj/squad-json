@@ -1,1 +1,1 @@
-{"name": "CompB Explosive", "class_name": "BP_CompB_Explosive_C", "category": "explosives", "image": "items/compb.png", "icon": "icons/item/explosives.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}
+{"name": "CompB Explosive", "equip_duration": 0.7799999713897705, "unequip_duration": 0.6499999761581421, "config": null, "image": "items/compb.png", "info": {"operation": "Time Delay Fuze (30s)", "explosion_radius": "8m"}}

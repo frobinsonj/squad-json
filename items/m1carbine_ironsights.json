@@ -1,0 +1,1 @@
+{"name": "M1 Carbine", "equip_duration": 0.75, "unequip_duration": 0.6499999761581421, "config": {"rounds_per_mag": 15, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/m1carbine.png", "info": {"magazine_capacity": "15+1", "caliber": ".30 Caliber", "fire_mode": "Semi"}}

@@ -1,0 +1,1 @@
+{"name": "M4 + M68 + Foregrip", "equip_duration": 0.75, "unequip_duration": 0.699999988079071, "config": {"rounds_per_mag": 30, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/foregrip.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "850 RPM", "fire_mode": "Semi, 3-Round Burst"}}

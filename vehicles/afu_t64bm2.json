@@ -1,0 +1,1 @@
+{"name": "T-64BM2", "versions": {"FOREST": "/Game/Vehicles/T64_BM2/BP_T64BM2_Cage.BP_T64BM2_Cage_C"}, "class_names": ["BP_T64BM2_Cage_C"], "tickets": 15, "type": "MBT", "tags": ["CLASS_HEAVY"], "icon": "icons/map/tank.png"}

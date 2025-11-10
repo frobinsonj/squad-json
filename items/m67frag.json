@@ -1,1 +1,1 @@
-{"name": "M67 Fragmentation Grenade", "class_name": "BP_M67Frag_C", "category": "fraggrenade", "image": "items/m67.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "M67 Fragmentation", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/m67.png", "info": {"explosion_radius": "15m"}}

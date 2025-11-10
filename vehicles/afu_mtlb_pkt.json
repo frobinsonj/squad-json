@@ -1,0 +1,1 @@
+{"name": "MTLB PKT", "versions": {"FOREST": "/Game/Vehicles/MTLB_AFU/BP_MTLB_AFU.BP_MTLB_AFU_C"}, "class_names": ["BP_MTLB_AFU_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedapc.png"}

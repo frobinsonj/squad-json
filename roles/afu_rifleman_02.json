@@ -1,0 +1,1 @@
+{"name": "RIFLEMAN", "details": "Equipped with a standard loadout, this role is perfect for general purpose combat.", "versions": {"FOREST": "/Game/Blueprints/Soldiers/AFU/BP_Soldier_AFU_Rifleman02.BP_Soldier_AFU_Rifleman02_C"}, "class_names": ["BP_Soldier_AFU_Rifleman02_C"], "type": "rifleman", "icon": "icons/role/rifleman.png", "tags": ["RIFLEMAN"]}

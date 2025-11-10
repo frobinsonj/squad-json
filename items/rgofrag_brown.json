@@ -1,1 +1,1 @@
-{"name": "RGO Fragmentation Grenade", "class_name": "BP_RGOFrag_Brown_C", "category": "fraggrenade", "image": "items/rgo.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "RGO Impact Fragmentation", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/rgo.png", "info": {"explosion_radius": "15m"}}

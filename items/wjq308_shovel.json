@@ -1,1 +1,1 @@
-{"name": "WJQ-308 Entrenching Tool", "class_name": "BP_WJQ308_Shovel_C", "category": "shovel", "image": "items/shovel.png", "icon": "icons/item/shovel.png", "info": null}
+{"name": "WJQ-308 Entrenching Tool", "equip_duration": 2.0, "unequip_duration": 1.8669999837875366, "config": null, "image": "items/shovel.png", "info": null}

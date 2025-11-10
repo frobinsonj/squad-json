@@ -1,1 +1,1 @@
-{"name": "Russian Field Binoculars", "class_name": "BP_Russian_Baigish_Binoculars_C", "category": "binoculars", "image": "items/russianbinoculars.png", "icon": "icons/item/binoculars.png", "info": null}
+{"name": "Field Binoculars", "equip_duration": 0.8500000238418579, "unequip_duration": 1.0169999599456787, "config": null, "image": "items/russianbinoculars.png", "info": null}

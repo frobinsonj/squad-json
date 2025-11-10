@@ -1,1 +1,1 @@
-{"name": "PKM", "class_name": "BP_PKM_C", "category": "machinegun", "image": "items/pkm.png", "icon": "icons/item/machinegun.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}
+{"name": "PKM", "equip_duration": 1.75, "unequip_duration": 1.2829999923706055, "config": {"rounds_per_mag": 100, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/pkm.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}

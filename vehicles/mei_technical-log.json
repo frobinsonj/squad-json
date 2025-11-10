@@ -1,0 +1,1 @@
+{"name": "Logistics Pickup Truck", "versions": {"DESERT": "/Game/Vehicles/Technical4Seater/BP_Technical4Seater_Logi.BP_Technical4Seater_Logi_C"}, "class_names": ["BP_Technical4Seater_Logi_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/jeep_logistics.png"}

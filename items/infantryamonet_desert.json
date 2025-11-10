@@ -1,1 +1,1 @@
-{"name": "Infantry Camo Net", "class_name": "BP_Infantry_Camonet_Desert_C", "category": "shovel", "image": "items/camonet.png", "icon": "icons/item/shovel.png", "info": {"maximum_allowed": "3"}}
+{"name": "Infantry Camo Net", "equip_duration": 0.6000000238418579, "unequip_duration": 0.8169999718666077, "config": null, "image": "items/camonet.png", "info": {"maximum_allowed": "3"}}

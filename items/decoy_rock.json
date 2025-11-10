@@ -1,1 +1,1 @@
-{"name": "Decoy Rock", "class_name": "BP_Decoy_Rock_C", "category": "explosives", "image": "items/rockdecoy.png", "icon": "icons/item/explosives.png", "info": {"maximum_allowed": "10"}}
+{"name": "Decoy Rock", "equip_duration": 0.4480000138282776, "unequip_duration": 0.5669999718666077, "config": null, "image": "items/rockdecoy.png", "info": {"maximum_allowed": "10"}}

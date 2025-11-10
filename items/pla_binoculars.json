@@ -1,1 +1,1 @@
-{"name": "Type95 Field Binoculars", "class_name": "BP_PLA_Binoculars_C", "category": "binoculars", "image": "items/sovietbinocs.png", "icon": "icons/item/binoculars.png", "info": null}
+{"name": "Type 95 Field Binoculars", "equip_duration": 1.0, "unequip_duration": 1.0169999599456787, "config": null, "image": "items/sovietbinocs.png", "info": null}

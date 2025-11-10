@@ -1,1 +1,1 @@
-{"name": "M60 Detonator", "class_name": "BP_M60_Detonator_C", "category": "detonator", "image": "items/detonator.png", "icon": "icons/item/detonator.png", "info": null}
+{"name": "M60 Detonator", "equip_duration": 0.699999988079071, "unequip_duration": 0.5669999718666077, "config": null, "image": "items/detonator.png", "info": null}

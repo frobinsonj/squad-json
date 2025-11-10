@@ -1,1 +1,1 @@
-{"name": "Entrenching Tool", "class_name": "BP_EntrenchingTool_C", "category": "shovel", "image": "items/entrenchingtool.png", "icon": "icons/item/shovel.png", "info": null}
+{"name": "Entrenching Tool", "equip_duration": 1.899999976158142, "unequip_duration": 2.0329999923706055, "config": null, "image": "items/entrenchingtool.png", "info": null}

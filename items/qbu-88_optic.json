@@ -1,1 +1,1 @@
-{"name": "QBU88", "class_name": "BP_QBU-88_Optic_C", "category": "rifle", "image": "items/qbu88.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "10+1", "caliber": "5.8x42mm ", "fire_mode": "Semi"}}
+{"name": "QBU-88", "equip_duration": 1.5199999809265137, "unequip_duration": 1.2000000476837158, "config": {"rounds_per_mag": 10, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/qbu88.png", "info": {"magazine_capacity": "10+1", "caliber": "5.8x42mm ", "fire_mode": "Semi"}}

@@ -1,0 +1,1 @@
+{"name": "JANDARMA", "details": "Military Police Attachment. Specializes in urban Close Quarters Combat operations.", "versions": {"DESERT": "/Game/Blueprints/Soldiers/TLF/BP_Soldier_TLF_Gendarme_01.BP_Soldier_TLF_Gendarme_01_C"}, "class_names": ["BP_Soldier_TLF_Gendarme_01_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": []}

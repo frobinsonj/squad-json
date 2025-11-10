@@ -1,1 +1,1 @@
-{"name": "M17 Modular Handgun System", "class_name": "BP_M17MHS_C", "category": "pistol", "image": "items/m17mhs.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}
+{"name": "M17", "equip_duration": 0.44999998807907104, "unequip_duration": 0.8999999761581421, "config": {"rounds_per_mag": 17, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/m17mhs.png", "info": {"magazine_capacity": "17+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

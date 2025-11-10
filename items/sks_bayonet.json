@@ -1,1 +1,1 @@
-{"name": "SKS Bayonet", "class_name": "BP_SKS_Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "SKS Bayonet", "equip_duration": 1.5, "unequip_duration": 1.4500000476837158, "config": {"rounds_per_mag": 0, "projectile": {"damage": 800.0, "applies_suppression": false, "explosive": null}}, "image": "items/bayonet.png", "info": null}

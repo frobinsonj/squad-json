@@ -1,1 +1,1 @@
-{"name": "SA80 Bayonet", "class_name": "BP_SA80Bayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "SA80 Bayonet", "equip_duration": 0.5799999833106995, "unequip_duration": 0.75, "config": {"rounds_per_mag": 0, "projectile": {"damage": 800.0, "applies_suppression": false, "explosive": null}}, "image": "items/bayonet.png", "info": null}

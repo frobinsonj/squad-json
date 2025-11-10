@@ -1,0 +1,1 @@
+{"name": "FIGHTER", "details": "Equipped with a standard loadout, this role is perfect for general purpose combat.", "versions": {"DESERT": "/Game/Blueprints/Soldiers/INS/BP_Soldier_INS_Rifleman7.BP_Soldier_INS_Rifleman7_C"}, "class_names": ["BP_Soldier_INS_Rifleman7_C"], "type": "rifleman", "icon": "icons/role/rifleman.png", "tags": ["RIFLEMAN"]}

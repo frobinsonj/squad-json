@@ -1,1 +1,1 @@
-{"name": "RDG2 Smoke Grenade Purple", "class_name": "BP_RDG2Smoke_Purple_C", "category": "smokegrenade", "image": "items/purple.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "RDG-2 Smoke (Purple)", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/purple.png", "info": null}

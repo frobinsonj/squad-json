@@ -1,1 +1,1 @@
-{"name": "SOR-9", "class_name": "BP_SOR9_C", "category": "pistol", "image": "items/sar9.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "17+1", "caliber": "9mm", "rate_of_fire": "450 RPM", "fire_mode": "Semi"}}
+{"name": "SOR-9", "equip_duration": 0.44999998807907104, "unequip_duration": 0.4000000059604645, "config": {"rounds_per_mag": 17, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/sar9.png", "info": {"magazine_capacity": "17+1", "caliber": "9mm", "rate_of_fire": "450 RPM", "fire_mode": "Semi"}}

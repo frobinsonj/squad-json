@@ -1,0 +1,1 @@
+{"name": "RHIB AGS-17", "versions": {"DESERT": "/Game/Vehicles/RHIB/BP_RHIB_AGS17.BP_RHIB_AGS17_C"}, "class_names": ["BP_RHIB_AGS17_C"], "tickets": 1, "type": "ULTV", "tags": ["CLASS_LIGHT", "WATERCRAFT", "AGL"], "icon": "icons/map/boaopenturret.png"}

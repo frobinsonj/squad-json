@@ -1,1 +1,1 @@
-{"name": "DSS161 Fragmentation Grenade", "class_name": "BP_Type86p_Frag_C", "category": "fraggrenade", "image": "items/type86p.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "DSS-161 Fragmentation", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/type86p.png", "info": {"explosion_radius": "15m"}}

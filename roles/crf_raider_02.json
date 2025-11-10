@@ -1,0 +1,1 @@
+{"name": "RAIDER", "details": "Equipped with an SMG and grenades, this role is perfect for close quarters combat and causing chaos.", "versions": {"FOREST": "/Game/Blueprints/Soldiers/CRF/BP_Soldiers_CRF_Raider_02.BP_Soldiers_CRF_Raider_02_C"}, "class_names": ["BP_Soldiers_CRF_Raider_02_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": ["FIRE_SUPPORT", "RAIDER"]}

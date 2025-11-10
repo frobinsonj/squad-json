@@ -1,1 +1,1 @@
-{"name": "M38 DMR", "class_name": "BP_M38_DMR_Optic_C", "category": "rifle", "image": "items/dmr.png", "icon": "icons/item/rifle.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "fire_mode": "Semi"}}
+{"name": "M38", "equip_duration": 0.75, "unequip_duration": 1.0, "config": {"rounds_per_mag": 30, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/dmr.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "fire_mode": "Semi"}}

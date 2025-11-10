@@ -1,0 +1,1 @@
+{"name": "MP-443 Grach", "equip_duration": 0.75, "unequip_duration": 0.8330000042915344, "config": {"rounds_per_mag": 18, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/mp443.png", "info": {"magazine_capacity": "18+1", "caliber": "9x19mm Parabellum", "fire_mode": "Semi"}}

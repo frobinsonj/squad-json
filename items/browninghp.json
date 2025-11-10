@@ -1,1 +1,1 @@
-{"name": "Hi-Power Pistol", "class_name": "BP_BrowningHP_C", "category": "pistol", "image": "items/caf.png", "icon": "icons/item/pistol.png", "info": {"magazine_capacity": "12+1", "caliber": "9mm", "fire_mode": "Semi Automatic"}}
+{"name": "Hi-Power", "equip_duration": 0.44999998807907104, "unequip_duration": 1.0829999446868896, "config": {"rounds_per_mag": 13, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/caf.png", "info": {"magazine_capacity": "12+1", "caliber": "9mm", "fire_mode": "Semi Automatic"}}

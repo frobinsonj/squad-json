@@ -1,0 +1,1 @@
+{"name": "KrAZ-6322 Logistics", "versions": {"FOREST": "/Game/Vehicles/Kraz-6322/BP_Kraz_6322_Logi.BP_Kraz_6322_Logi_C"}, "class_names": ["BP_Kraz_6322_Logi_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_logistics.png"}

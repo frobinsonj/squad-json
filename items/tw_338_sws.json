@@ -1,1 +1,1 @@
-{"name": "TW 338 SWS", "class_name": "BP_TW_338_SWS_C", "category": "dmr", "image": "items/sws.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "5", "caliber": ".338 Lapua Magnum", "fire_mode": "Bolt-Action"}}
+{"name": "Timberwolf", "equip_duration": 1.850000023841858, "unequip_duration": 1.309999942779541, "config": {"rounds_per_mag": 5, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/sws.png", "info": {"magazine_capacity": "5+1", "caliber": ".338 Lapua Magnum", "fire_mode": "Bolt-Action"}}

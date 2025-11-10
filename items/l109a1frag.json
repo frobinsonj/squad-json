@@ -1,1 +1,1 @@
-{"name": "L109A1 Fragmentation", "class_name": "BP_L109A1Frag_C", "category": "fraggrenade", "image": "items/l109a1.png", "icon": "icons/item/fraggrenade.png", "info": {"explosion_radius": "15m"}}
+{"name": "L109A1 Fragmentation", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/l109a1.png", "info": {"explosion_radius": "15m"}}

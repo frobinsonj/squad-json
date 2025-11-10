@@ -1,0 +1,1 @@
+{"name": "BMP-2", "versions": {"DESERT": "/Game/Vehicles/BMP-2/BP_BMP2_GFI.BP_BMP2_GFI_C"}, "class_names": ["BP_BMP2_GFI_C"], "tickets": 10, "type": "IFV", "tags": ["ATGM", "CLASS_MEDIUM", "WATERCRAFT"], "icon": "icons/map/trackedifv.png"}

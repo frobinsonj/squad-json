@@ -1,1 +1,1 @@
-{"name": "OKC-3S", "class_name": "BP_OKC-3S_C", "category": "knife", "image": "items/okc-3s.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "OKC-3S", "equip_duration": 0.550000011920929, "unequip_duration": 0.8159999847412109, "config": {"rounds_per_mag": 0, "projectile": {"damage": 800.0, "applies_suppression": false, "explosive": null}}, "image": "items/okc-3s.png", "info": null}

@@ -1,1 +1,1 @@
-{"name": "Sapper MPL50 Spade", "class_name": "BP_MPL50_Shovel_Engineer_C", "category": "shovel", "image": "items/shovel.png", "icon": "icons/item/shovel.png", "info": null}
+{"name": "Sapper MPL50 Spade", "equip_duration": 0.5, "unequip_duration": 0.4830000102519989, "config": null, "image": "items/shovel.png", "info": null}

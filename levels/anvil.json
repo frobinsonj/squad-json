@@ -1,1 +1,1 @@
-{"name": "Anvil", "country": "Afghanistan", "minimap": "minimaps/anvil.png", "thumbnail": "levels/thumbnails/anvil.png", "image": "levels/anvil.png"}
+{"name": "Anvil", "description": "", "biome": "DESERT", "theater": "ASIA_CENTRAL", "country": "Afghanistan", "minimap": "minimaps/anvil.png", "thumbnail": "levels/thumbnails/anvil.png", "image": "levels/anvil.png"}

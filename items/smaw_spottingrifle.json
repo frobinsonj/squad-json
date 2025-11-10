@@ -1,1 +1,1 @@
-{"name": "MK153 SMAW Spotting Rifle", "class_name": "BP_SMAW_SpottingRifle_C", "category": "lat", "image": "items/spottingrifle.png", "icon": "icons/item/lat.png", "info": {"caliber": "7.62x51mm Tracer", "guidance": "Unguided"}}
+{"name": "Mk 153 SMAW (Spotting Rifle)", "equip_duration": 1.25, "unequip_duration": 1.25, "config": {"rounds_per_mag": 6, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/spottingrifle.png", "info": {"caliber": "7.62x51mm Tracer", "guidance": "Unguided"}}

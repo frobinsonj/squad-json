@@ -1,0 +1,1 @@
+{"name": "M939 Logistics", "versions": {"DESERT": "/Game/Vehicles/M939_CRF/BP_US_Util_Woodland_Logi_CRF.BP_US_Util_Woodland_Logi_CRF_C"}, "class_names": ["BP_US_Util_Woodland_Logi_CRF_C"], "tickets": 5, "type": "LOGI", "tags": ["CLASS_HEAVY"], "icon": "icons/map/truck_logistics.png"}

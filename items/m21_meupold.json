@@ -1,0 +1,1 @@
+{"name": "M21 + Meupold", "equip_duration": 1.7100000381469727, "unequip_duration": 1.399999976158142, "config": {"rounds_per_mag": 20, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/scope.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm", "fire_mode": "Semi"}}

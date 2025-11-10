@@ -1,1 +1,1 @@
-{"name": "AKM Bayonet", "class_name": "BP_AKMBayonet_C", "category": "knife", "image": "items/bayonet.png", "icon": "icons/item/knife.png", "info": null}
+{"name": "AKM Bayonet", "equip_duration": 0.5, "unequip_duration": 0.43299999833106995, "config": {"rounds_per_mag": 0, "projectile": {"damage": 800.0, "applies_suppression": false, "explosive": null}}, "image": "items/bayonet.png", "info": null}

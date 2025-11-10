@@ -1,0 +1,1 @@
+{"name": "KrAZ-6322 Transport", "versions": {"FOREST": "/Game/Vehicles/Kraz-6322/BP_Kraz_6322.BP_Kraz_6322_C"}, "class_names": ["BP_Kraz_6322_C"], "tickets": 5, "type": "TRAN", "tags": ["CLASS_MEDIUM"], "icon": "icons/map/truck_transport.png"}

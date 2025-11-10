@@ -1,1 +1,1 @@
-{"name": "Vehicle Repair Tools", "class_name": "BP_RepairTool_C", "category": "repair", "image": "items/repairtool.png", "icon": "icons/item/repair.png", "info": null}
+{"name": "Vehicle Repair Tools", "equip_duration": 1.7000000476837158, "unequip_duration": 1.649999976158142, "config": null, "image": "items/repairtool.png", "info": null}

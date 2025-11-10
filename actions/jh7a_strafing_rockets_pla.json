@@ -1,0 +1,1 @@
+{"name": "JH7A Rocket Airstrike", "details": "A rocket strike from a JH7A close air support aircraft.", "type": "TACTICAL", "icon": "icons/jh7a/ability.png", "duration": {"enroute": 15, "active": 32}, "delay": {"initial": null, "respawn": null}}

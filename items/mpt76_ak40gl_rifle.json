@@ -1,0 +1,1 @@
+{"name": "MPT-76 AK-40GL", "equip_duration": 1.0299999713897705, "unequip_duration": 1.1200000047683716, "config": {"rounds_per_mag": 20, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/ak40gl.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x51mm NATO", "rate_of_fire": "630 RPM", "fire_mode": "Semi, Full-Auto"}}

@@ -1,1 +1,1 @@
-{"name": "M18 Smoke Grenade Blue", "class_name": "BP_M18Smoke_Blue_C", "category": "smokegrenade", "image": "items/blue.png", "icon": "icons/item/smokegrenade.png", "info": null}
+{"name": "M18 Smoke (Blue)", "equip_duration": 0.75, "unequip_duration": 0.8999999761581421, "config": null, "image": "items/blue.png", "info": null}

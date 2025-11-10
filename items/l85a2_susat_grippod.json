@@ -1,0 +1,1 @@
+{"name": "L85A2 + SUSAT + Grippod", "equip_duration": 1.159999966621399, "unequip_duration": 0.9800000190734863, "config": {"rounds_per_mag": 30, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/grippod.png", "info": {"magazine_capacity": "30+1", "caliber": "5.56x45mm NATO", "rate_of_fire": "650 RPM", "fire_mode": "Semi, Auto"}}

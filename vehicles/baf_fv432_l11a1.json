@@ -1,0 +1,1 @@
+{"name": "FV432 L11A1", "versions": {"DESERT": "/Game/Vehicles/FV432/BP_FV432.BP_FV432_C", "FOREST": "/Game/Vehicles/FV432/BP_FV432_woodland.BP_FV432_woodland_C", "SNOW": "/Game/Vehicles/FV432/BP_FV432_woodland.BP_FV432_woodland_C"}, "class_names": ["BP_FV432_C", "BP_FV432_woodland_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT"], "icon": "icons/map/trackedjeep.png"}

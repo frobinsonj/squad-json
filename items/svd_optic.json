@@ -1,1 +1,1 @@
-{"name": "SVD", "class_name": "BP_SVD_Optic_C", "category": "dmr", "image": "items/svd.png", "icon": "icons/item/dmr.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x54mmR", "fire_mode": "Semi"}}
+{"name": "SVD", "equip_duration": 1.5199999809265137, "unequip_duration": 1.2330000400543213, "config": {"rounds_per_mag": 10, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/svd.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x54mmR", "fire_mode": "Semi"}}

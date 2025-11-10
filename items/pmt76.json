@@ -1,0 +1,1 @@
+{"name": "PMT-76", "equip_duration": 1.6299999952316284, "unequip_duration": 1.315999984741211, "config": {"rounds_per_mag": 75, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/mag58.png", "info": {"magazine_capacity": "75", "caliber": "7.62x51mm NATO Red Tracer", "rate_of_fire": "900 RPM", "fire_mode": "Auto"}}

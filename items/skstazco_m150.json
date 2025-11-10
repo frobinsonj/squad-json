@@ -1,0 +1,1 @@
+{"name": "SKS  TAZCO + M150", "equip_duration": 1.7999999523162842, "unequip_duration": 1.2999999523162842, "config": {"rounds_per_mag": 20, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/m150.png", "info": {"magazine_capacity": "20+1", "caliber": "7.62x39mm", "fire_mode": "Semi"}}

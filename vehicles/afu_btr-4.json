@@ -1,0 +1,1 @@
+{"name": "BTR-4", "versions": {"FOREST": "/Game/Vehicles/BTR4/BP_BTR4_AFU.BP_BTR4_AFU_C"}, "class_names": ["BP_BTR4_AFU_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_HEAVY", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

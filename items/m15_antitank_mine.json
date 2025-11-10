@@ -1,1 +1,1 @@
-{"name": "M15 Anti-Tank Mine", "class_name": "BP_M15_Antitank_Mine_C", "category": "explosives", "image": "items/mine.png", "icon": "icons/item/explosives.png", "info": {"operation": "Pressure Operated Detonation", "explosion_radius": "10m", "maximum_in_world": "10"}}
+{"name": "M15 Anti-Tank Mine", "equip_duration": 0.6000000238418579, "unequip_duration": 0.9160000085830688, "config": null, "image": "items/mine.png", "info": {"operation": "Pressure Operated Detonation", "explosion_radius": "10m", "maximum_in_world": "10"}}

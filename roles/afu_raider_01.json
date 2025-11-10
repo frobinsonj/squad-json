@@ -1,0 +1,1 @@
+{"name": "RAIDER", "details": "Equipped with a standard loadout, this role is perfect for general purpose combat.", "versions": {"FOREST": "/Game/Blueprints/Soldiers/AFU/BP_Soldier_AFU_Raider01.BP_Soldier_AFU_Raider01_C"}, "class_names": ["BP_Soldier_AFU_Raider01_C"], "type": "raider", "icon": "icons/role/raider.png", "tags": ["RAIDER", "NON_MAGNIFYING_SIGHT"]}

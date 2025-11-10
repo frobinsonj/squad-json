@@ -1,1 +1,1 @@
-{"name": "Rally Point", "class_name": "BP_EquippableRallyPoint_PLA_C", "category": "rallypoint", "image": "items/rallypoint.png", "icon": "items/rallypoint.png", "info": null}
+{"name": "Rally Point", "equip_duration": 0.4000000059604645, "unequip_duration": 0.6669999957084656, "config": null, "image": "items/rallypoint.png", "info": null}

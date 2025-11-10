@@ -1,0 +1,1 @@
+{"name": "SOR-109T", "equip_duration": 0.9599999785423279, "unequip_duration": 1.0700000524520874, "config": {"rounds_per_mag": 30, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/sar109t.png", "info": {"magazine_capacity": "30", "caliber": "9x19mm", "rate_of_fire": "900 RPM", "fire_mode": "Auto, Semi"}}

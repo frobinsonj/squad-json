@@ -1,0 +1,1 @@
+{"name": "Technical AGS-17", "versions": {"DESERT": "/Game/Vehicles/M1151_MEI/BP_M1151_Technical_AGS17.BP_M1151_Technical_AGS17_C"}, "class_names": ["BP_Technical2Seater_White_AGS17_C", "BP_Armored_Technical2Seater_White_AGS17_C", "BP_M1151_Technical_AGS17_C"], "tickets": 5, "type": "TD", "tags": ["CLASS_LIGHT", "AGL"], "icon": "icons/map/jeep.png"}

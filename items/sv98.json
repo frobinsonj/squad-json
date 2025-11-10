@@ -1,0 +1,1 @@
+{"name": "SV-98", "equip_duration": 1.100000023841858, "unequip_duration": 1.25, "config": {"rounds_per_mag": 10, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/sv98m.png", "info": {"magazine_capacity": "10+1", "caliber": "7.62x54mm", "fire_mode": "Bolt-Action"}}

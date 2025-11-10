@@ -1,0 +1,1 @@
+{"name": "Pchela-1T UAV Recon", "details": "A flyby from a Pchela-1T, allowing for live aerial reconnaissance.", "type": "STRATEGIC", "icon": "icons/strategic/uav_pchela.png", "duration": {"enroute": 30, "active": 300}, "delay": {"initial": 600, "respawn": 600}}
