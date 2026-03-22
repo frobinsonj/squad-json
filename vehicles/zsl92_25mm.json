@@ -1,0 +1,1 @@
+{"name": "ZSL92 IFV", "versions": {"DESERT": "/Game/Vehicles/WZ551/BP_WZ551A_Desert.BP_WZ551A_Desert_C", "FOREST": "/Game/Vehicles/WZ551/BP_WZ551A.BP_WZ551A_C", "SNOW": "/Game/Vehicles/WZ551/BP_WZ551A.BP_WZ551A_C"}, "class_names": ["BP_WZ551A_Desert_C", "BP_WZ551A_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/ifv.png"}

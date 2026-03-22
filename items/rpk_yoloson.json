@@ -1,0 +1,1 @@
+{"name": "RPK + Yoloson", "equip_duration": 1.5499999523162842, "unequip_duration": 1.4830000400543213, "config": {"rounds_per_mag": 75, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/yoloson.png", "info": {"magazine_capacity": "75+1", "caliber": "7.62x39mm", "rate_of_fire": "600 RPM", "fire_mode": "Auto, Semi"}}

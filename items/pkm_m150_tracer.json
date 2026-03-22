@@ -1,0 +1,1 @@
+{"name": "PKM + TA31 + Tracer", "equip_duration": 1.75, "unequip_duration": 1.2829999923706055, "config": {"rounds_per_mag": 100, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/m150.png", "info": {"magazine_capacity": "100", "caliber": "7.62x54mmR", "rate_of_fire": "650 RPM", "fire_mode": "Auto"}}

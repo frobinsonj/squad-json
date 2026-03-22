@@ -1,0 +1,1 @@
+{"name": "Lynx8x8 QLZ87", "versions": {"FOREST": "/Game/Vehicles/Lynx_8x8/BP_LynxATV_Rollcage_QLZ87.BP_LynxATV_Rollcage_QLZ87_C", "DESERT": "/Game/Vehicles/Lynx_8x8/BP_LynxATV_Rollcage_QLZ87.BP_LynxATV_Rollcage_QLZ87_C"}, "class_names": ["BP_LynxATV_Rollcage_QLZ87_C"], "tickets": 5, "type": "LTV", "tags": ["WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/jeep.png"}

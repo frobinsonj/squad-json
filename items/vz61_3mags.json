@@ -1,1 +1,0 @@
-{"name": "Vz. 61 \u0160korpion", "equip_duration": 1.3700000047683716, "unequip_duration": 1.315999984741211, "config": {"rounds_per_mag": 20, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/vz61.png", "info": {"magazine_capacity": "20", "caliber": ".32 ACP", "rate_of_fire": "850 RPM", "fire_mode": "Auto, Semi"}}

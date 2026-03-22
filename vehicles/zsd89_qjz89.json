@@ -1,0 +1,1 @@
+{"name": "ZSD89 QJZ89", "versions": {"DESERT": "/Game/Vehicles/ZSD89/BP_ZSD89_Desert.BP_ZSD89_Desert_C", "FOREST": "/Game/Vehicles/ZSD89/BP_ZSD89.BP_ZSD89_C", "SNOW": "/Game/Vehicles/ZSD89/BP_ZSD89.BP_ZSD89_C"}, "class_names": ["BP_ZSD89_Desert_C", "BP_ZSD89_C"], "tickets": 5, "type": "APC", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/trackedjeep.png"}

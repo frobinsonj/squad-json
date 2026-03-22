@@ -1,0 +1,1 @@
+{"name": "Lynx8x8 Transport", "versions": {"FOREST": "/Game/Vehicles/Lynx_8x8/BP_LynxATV.BP_LynxATV_C", "DESERT": "/Game/Vehicles/Lynx_8x8/BP_LynxATV.BP_LynxATV_C"}, "class_names": ["BP_LynxATV_C"], "tickets": 3, "type": "TRAN", "tags": ["WATERCRAFT", "CLASS_LIGHT"], "icon": "icons/map/jeep_transport.png"}

@@ -1,0 +1,1 @@
+{"name": "ZSL92A APC QJZ89", "versions": {"DESERT": "/Game/Vehicles/WZ551/BP_WZ551B_Desert.BP_WZ551B_Desert_C", "FOREST": "/Game/Vehicles/WZ551/BP_WZ551B.BP_WZ551B_C", "SNOW": "/Game/Vehicles/WZ551/BP_WZ551B.BP_WZ551B_C"}, "class_names": ["BP_WZ551B_Desert_C", "BP_WZ551B_C"], "tickets": 10, "type": "IFV", "tags": ["CLASS_LIGHT", "WATERCRAFT"], "icon": "icons/map/apc.png"}

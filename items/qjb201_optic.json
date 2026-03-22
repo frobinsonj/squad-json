@@ -1,0 +1,1 @@
+{"name": "QJB-201 + QMK-204", "equip_duration": 1.350000023841858, "unequip_duration": 1.5, "config": {"rounds_per_mag": 100, "projectile": {"damage": 800.0, "applies_suppression": true, "explosive": null}}, "image": "items/optic.png", "info": {"magazine_capacity": "100", "caliber": "5.8\u00d742mm DBP-191 Green Tracer", "rate_of_fire": "800 RPM", "fire_mode": "Auto, Semi"}}

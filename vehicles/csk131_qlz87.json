@@ -1,0 +1,1 @@
+{"name": "CSK131 QLZ87", "versions": {"FOREST": "/Game/Vehicles/CSK131/BP_CSK131_QLZ87.BP_CSK131_QLZ87_C", "DESERT": "/Game/Vehicles/CSK131/BP_CSK131_QLZ87_Desert.BP_CSK131_QLZ87_Desert_C"}, "class_names": ["BP_CSK131_QLZ87_C", "BP_CSK131_QLZ87_Desert_C"], "tickets": 5, "type": "MRAP", "tags": ["CLASS_HEAVY", "RWS"], "icon": "icons/map/jeep.png"}
